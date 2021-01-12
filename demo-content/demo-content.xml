@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.5.3" created="2021-01-12 05:20" -->
+	<!-- generator="WordPress/5.5.3" created="2021-01-12 06:11" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title></title>
 	<link>https://wp-test.themeix.com</link>
 	<description></description>
-	<pubDate>Tue, 12 Jan 2021 05:20:31 +0000</pubDate>
+	<pubDate>Tue, 12 Jan 2021 06:11:00 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://wp-test.themeix.com</wp:base_site_url>
@@ -2014,7 +2014,7 @@
 		<wp:post_name><![CDATA[1086]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
+		<wp:menu_order>5</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2069,7 +2069,7 @@
 		<wp:post_name><![CDATA[1087]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>8</wp:menu_order>
+		<wp:menu_order>11</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2124,7 +2124,7 @@
 		<wp:post_name><![CDATA[1088]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>9</wp:menu_order>
+		<wp:menu_order>12</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2549,694 +2549,6 @@ users. https://918.network/casino-games/73-playboy-casino]]></wp:comment_content
 							</wp:comment>
 					</item>
 					<item>
-		<title>The WordPress editor has everything you need</title>
-		<link>https://wp-test.themeix.com/2019/03/18/molestie-nostra-consequatur-vivamus-aliqua-ridiculus/</link>
-		<pubDate>Mon, 18 Mar 2019 03:38:04 +0000</pubDate>
-		<dc:creator><![CDATA[siteadmin]]></dc:creator>
-		<guid isPermaLink="false">http://doxy-wp.themeix.com/?p=812</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>The Ghost editor has everything you need to fully optimise your content. This is where you can add tags and authors, feature a post, or turn a post into a page.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Access the post settings menu in the top right hand corner of the editor.</p></blockquote>
-<!-- /wp:quote -->
-
-<p><!--nextpage--></p>
-
-<!-- wp:heading -->
-<h2 id="post-feature-image">Post feature image</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Insert your post feature image from the very top of the post settings menu. Consider resizing or optimising your image first to ensure it's an appropriate size.</p>
-<!-- /wp:paragraph -->
-
-<p><!--nextpage--></p>
-
-<!-- wp:heading -->
-<h2 id="structured-data-seo">Structured data &amp; SEO</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Customise your social media sharing cards for Facebook and Twitter, enabling you to add custom images, titles and descriptions for social media.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>There’s no need to hard code your meta data. You can set your meta title and description using the post settings tool, which has a handy character guide and SERP preview.</p>
-<!-- /wp:paragraph -->
-
-<p><!--nextpage--></p>
-
-<!-- wp:paragraph -->
-<p>Ghost will automatically implement structured data for your publication using JSON-LD to further optimise your content.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>You can test that the structured data&nbsp;<a href="https://schema.org/">schema</a>&nbsp;on your site is working as it should using&nbsp;<a href="https://search.google.com/structured-data/testing-tool">Google’s structured data tool</a>.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 id="code-injection">Code Injection</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>This tool allows you to inject code on a per post or page basis, or across your entire site. This means you can modify CSS, add unique tracking codes, or add other scripts to the head or foot of your publication without making edits to your theme files.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>To add code site-wide</strong>, use the code injection tool&nbsp;<a href="https://darkbiz.themeix.com/ghost/settings/code-injection/">in the main admin menu</a>. This is useful for adding a Facebook Pixel, a Google Analytics tracking code, or to start tracking with any other analytics tool.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>To add code to a post or page</strong>, use the code injection tool within the post settings menu. This is useful if you want to add art direction, scripts or styles that are only applicable to one post or page.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>From here, you might be interested in managing some more specific&nbsp;<a href="https://darkbiz.themeix.com/admin-settings/">admin settings</a>!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-				
-								]]></excerpt:encoded>
-		<wp:post_id>812</wp:post_id>
-		<wp:post_date><![CDATA[2019-03-18 03:38:04]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-03-18 03:38:04]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[molestie-nostra-consequatur-vivamus-aliqua-ridiculus]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="getting-started"><![CDATA[Getting started]]></category>
-		<category domain="category" nicename="trending"><![CDATA[Trending]]></category>
-		<category domain="post_tag" nicename="trending"><![CDATA[Trending]]></category>
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1050]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[featured]]></wp:meta_key>
-		<wp:meta_value><![CDATA[No]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_featured]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_5eaa8d159dcfe]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Bestdemestic Annoc ETC Discover</title>
-		<link>https://wp-test.themeix.com/2019/03/20/bestdemestic-annoc-etc-discover/</link>
-		<pubDate>Wed, 20 Mar 2019 09:41:15 +0000</pubDate>
-		<dc:creator><![CDATA[siteadmin]]></dc:creator>
-		<guid isPermaLink="false">http://doxy-wp.themeix.com/?p=841</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-				
-				<!-- wp:paragraph -->
-<p> Welcome, it's great to have you here.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>We know that first impressions are important, so we've populated your new site with some initial&nbsp;<strong>getting started</strong>posts that will help you get familiar with everything in no time. This is the first one!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>A few things you should know upfront</strong>:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list {"ordered":true} -->
-<ol><li>Ghost is designed for ambitious, professional publishers who want to actively build a business around their content. That's who it works best for.</li><li>The entire platform can be modified and customised to suit your needs. It's very powerful, but does require some knowledge of code. Ghost is not necessarily a good platform for beginners or people who just want a simple personal blog.</li><li>For the best experience we recommend downloading the&nbsp;<a href="https://ghost.org/downloads/">Ghost Desktop App</a>&nbsp;for your computer, which is the best way to access your Ghost site on a desktop device.</li></ol>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>Ghost is made by an independent non-profit organisation called the Ghost Foundation. We are 100% self funded by revenue from our&nbsp;<a href="https://ghost.org/pricing">Ghost(Pro)</a>&nbsp;service, and every penny we make is re-invested into funding further development of free, open source technology for modern publishing.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>The version of Ghost you are looking at right now would not have been made possible without generous contributions from the open source&nbsp;<a href="https://github.com/TryGhost">community</a>.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 id="next-up-the-editor">Next up, the editor</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>The main thing you'll want to read about next is probably:&nbsp;<a href="https://axotic.themeix.com/the-editor/">the Ghost editor</a>. This is where the good stuff happens.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p><em>By the way, once you're done reading, you can simply delete the default&nbsp;<strong>Ghost</strong>&nbsp;user from your team to remove all of these introductory posts!</em></p></blockquote>
-<!-- /wp:quote -->				]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-				
-				Welcome, it's great to have you here. We know that first impressions are important, so we've populated your new site with some initial getting startedposts that will help you get familiar				]]></excerpt:encoded>
-		<wp:post_id>841</wp:post_id>
-		<wp:post_date><![CDATA[2019-03-20 09:41:15]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-03-20 09:41:15]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[bestdemestic-annoc-etc-discover]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
-		<category domain="category" nicename="trending"><![CDATA[Trending]]></category>
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[842]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Checking Image Formating</title>
-		<link>https://wp-test.themeix.com/2019/03/20/checking-image-formating/</link>
-		<pubDate>Wed, 20 Mar 2019 09:42:22 +0000</pubDate>
-		<dc:creator><![CDATA[siteadmin]]></dc:creator>
-		<guid isPermaLink="false">http://doxy-wp.themeix.com/?p=844</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Molestie urna volutpat quaerat blandit vestibulum, illo molestiae, cumque aut? Vivamus metus minus? Nunc, optio! Diam. Ipsum autem, justo congue, non rem, dicta reprehenderit. Quibusdam vulputate neque atque officia ullam. Commodo quos, mus placeat dignissim sollicitudin repudiandae odio amet necessitatibus nostrum rutrum, distinctio molestias, quas, ab sed in, platea. Cras? Aspernatur fusce etiam</p>
-<!-- /wp:paragraph -->
-
-<p><!--nextpage--></p>
-
-<!-- wp:image -->
-<figure class="wp-block-image"><img src="https://axotic.themeix.com/content/images/2019/02/homes-for-rent-dayton-ohio.jpg" alt="" /></figure>
-<p>&nbsp;</p>
-<!-- /wp:image -->
-
-<p><!--nextpage--></p>
-
-<!-- wp:paragraph -->
-<p>Sollicitudin occaecati incididunt. Tempus. Feugiat non ratione amet modi, vulputate libero perspiciatis cupidatat pretium praesentium ullamco molestiae. Vel adipisicing primis assumenda? Cras cupiditate netus, facilisis risus? Ratione expedita magnam? Praesent fuga vel dictumst quidem adipisicing rutrum ipsa minus sem tellus, harum tellus! Eius, accumsan?</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image -->
-<figure class="wp-block-image"><img src="https://axotic.themeix.com/content/images/2019/02/front-cover-website.jpg" alt=""/></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-<p>Rutrum hac, animi adipisicing. Ipsa tellus taciti modi! Primis asperiores euismod cupiditate sequi orci ab blanditiis, placerat mauris! Primis bibendum labore, mollit eveniet illo? Natoque tristique nulla vitae. Provident id officia, inventore blandit laboriosam fugit aliquip. Eros nunc quibusdam consectetur, aliquid rutrum facilis harum in, aperiam adipisci dignissim!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Quaerat facilis molestias turpis fuga! Venenatis! Quo felis, animi sagittis vestibulum ut, nisl ullamco, et delectus curae. Repellat tenetur non, voluptatum, cras? Facilisis consectetuer, ipsam proident nostrud senectus, delectus habitasse, conubia labore magni. Adipiscing inceptos delectus? Aliquid placeat, praesent. Ullamco netus excepteur. Doloremque ullam, doloremque hymenaeos nec maiores diamlorem nesciunt vulputate qui.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image -->
-<figure class="wp-block-image"><img src="https://axotic.themeix.com/content/images/2019/03/48358151_2316826121869089_5755321829510086656_n.jpg" alt=""/></figure>
-<!-- /wp:image -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-				
-				Molestie urna volutpat quaerat blandit vestibulum, illo molestiae, cumque aut? Vivamus metus minus? Nunc, optio! Diam. Ipsum autem, justo congue, non rem, dicta reprehenderit. Quibusdam vulputate neque atque officia ullam.				]]></excerpt:encoded>
-		<wp:post_id>844</wp:post_id>
-		<wp:post_date><![CDATA[2019-03-20 09:42:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-03-20 09:42:22]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[checking-image-formating]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="sports"><![CDATA[sports]]></category>
-		<category domain="category" nicename="trending"><![CDATA[Trending]]></category>
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1048]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[featured]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Yes]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_featured]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_5eaa8d159dcfe]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>May Make Fighting Melanoma Tougher</title>
-		<link>https://wp-test.themeix.com/2019/03/25/smoking-may-make-fighting-melanoma-tougher/</link>
-		<pubDate>Mon, 25 Mar 2019 09:25:20 +0000</pubDate>
-		<dc:creator><![CDATA[siteadmin]]></dc:creator>
-		<guid isPermaLink="false">https://doxy-wp.themeix.com/?p=1020</guid>
-		<description></description>
-		<content:encoded><![CDATA[The Ghost editor has everything you need to fully optimise your content. This is where you can add tags and authors, feature a post, or turn a post into a page.
-<blockquote>Access the post settings menu in the top right hand corner of the editor.</blockquote>
-<h2 id="post-feature-image">Post feature image</h2>
-Insert your post feature image from the very top of the post settings menu. Consider resizing or optimising your image first to ensure it's an appropriate size.
-<h2 id="structured-data-seo">Structured data &amp; SEO</h2>
-Customise your social media sharing cards for Facebook and Twitter, enabling you to add custom images, titles and descriptions for social media.
-
-There’s no need to hard code your meta data. You can set your meta title and description using the post settings tool, which has a handy character guide and SERP preview.
-
-Ghost will automatically implement structured data for your publication using JSON-LD to further optimise your content.
-<pre><code class="hljs javascript">{
-    <span class="hljs-string">"@context"</span>: <span class="hljs-string">"https://schema.org"</span>,
-    <span class="hljs-string">"@type"</span>: <span class="hljs-string">"Article"</span>,
-    <span class="hljs-string">"publisher"</span>: {
-        <span class="hljs-string">"@type"</span>: <span class="hljs-string">"Organization"</span>,
-        <span class="hljs-string">"name"</span>: <span class="hljs-string">"Publishing options"</span>,
-        <span class="hljs-string">"logo"</span>: <span class="hljs-string">"https://static.ghost.org/ghost-logo.svg"</span>
-    },
-    <span class="hljs-string">"author"</span>: {
-        <span class="hljs-string">"@type"</span>: <span class="hljs-string">"Person"</span>,
-        <span class="hljs-string">"name"</span>: <span class="hljs-string">"Ghost"</span>,
-        <span class="hljs-string">"url"</span>: <span class="hljs-string">"http://demo.ghost.io/author/ghost/"</span>,
-        <span class="hljs-string">"sameAs"</span>: []
-    },
-    <span class="hljs-string">"headline"</span>: <span class="hljs-string">"Publishing options"</span>,
-    <span class="hljs-string">"url"</span>: <span class="hljs-string">"http://demo.ghost.io/publishing-options"</span>,
-    <span class="hljs-string">"datePublished"</span>: <span class="hljs-string">"2018-08-08T11:44:00.000Z"</span>,
-    <span class="hljs-string">"dateModified"</span>: <span class="hljs-string">"2018-08-09T12:06:21.000Z"</span>,
-    <span class="hljs-string">"keywords"</span>: <span class="hljs-string">"Getting Started"</span>,
-    <span class="hljs-string">"description"</span>: <span class="hljs-string">"The Ghost editor has everything you need to fully optimise your content. This is where you can add tags and authors, feature a post, or turn a post into a page."</span>,
-    }
-}
-    </code></pre>
-You can test that the structured data&nbsp;<a href="https://schema.org/">schema</a>&nbsp;on your site is working as it should using&nbsp;<a href="https://search.google.com/structured-data/testing-tool" rel="noreferrer nofollow noopener">Google’s structured data tool</a>.
-<h2 id="code-injection">Code Injection</h2>
-This tool allows you to inject code on a per post or page basis, or across your entire site. This means you can modify CSS, add unique tracking codes, or add other scripts to the head or foot of your publication without making edits to your theme files.
-<pre><code class="hljs javascript">  <span class="hljs-string">"name"</span>: <span class="hljs-string">"arnica"</span>,
-  <span class="hljs-string">"description"</span>: <span class="hljs-string">"Arnica The default personal blogging theme for Ghost. Beautiful, minimal and responsive."</span>,
-  <span class="hljs-string">"demo"</span>: <span class="hljs-string">"https://arnica.themeix.com"</span>,
-  <span class="hljs-string">"version"</span>: <span class="hljs-string">"1.0.0"</span>,
-  <span class="hljs-string">"engines"</span>: {
-    <span class="hljs-string">"ghost"</span>: <span class="hljs-string">"&gt;=2.0.0"</span>,
-    <span class="hljs-string">"ghost-api"</span>: <span class="hljs-string">"v2"</span>
-</code></pre>
-<strong>To add code site-wide</strong>, use the code injection tool&nbsp;<a href="https://arnica.themeix.com/ghost/settings/code-injection/">in the main admin menu</a>. This is useful for adding a Facebook Pixel, a Google Analytics tracking code, or to start tracking with any other analytics tool.
-
-<strong>To add code to a post or page</strong>, use the code injection tool within the post settings menu. This is useful if you want to add art direction, scripts or styles that are only applicable to one post or page.
-
-From here, you might be interested in managing some more specific&nbsp;<a href="https://arnica.themeix.com/admin-settings/">admin settings</a>!]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-				
-				The Ghost editor has everything you need to fully optimise your content. This is where you can add tags and authors, feature a post, or turn a post into a				]]></excerpt:encoded>
-		<wp:post_id>1020</wp:post_id>
-		<wp:post_date><![CDATA[2019-03-25 09:25:20]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-03-25 09:25:20]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[smoking-may-make-fighting-melanoma-tougher]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="getting-started"><![CDATA[Getting Started]]></category>
-		<category domain="post_tag" nicename="trending"><![CDATA[Trending]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[161]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_bg]]></wp:meta_key>
-		<wp:meta_value><![CDATA[image]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_post_bg]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_5cfa82ea7000b]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[doxy_post_title_bg]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_doxy_post_title_bg]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_5cfa8c737000c]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[editot]]></wp:meta_key>
-		<wp:meta_value><![CDATA[sdfsdjfbdsj]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_editot]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_5eafd578953e4]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[featured]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Yes]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_featured]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_5eaa8d159dcfe]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Two calgarians among four dead</title>
-		<link>https://wp-test.themeix.com/2019/03/25/two-calgarians-among-four-dead/</link>
-		<pubDate>Mon, 25 Mar 2019 10:58:25 +0000</pubDate>
-		<dc:creator><![CDATA[siteadmin]]></dc:creator>
-		<guid isPermaLink="false">https://doxy-wp.themeix.com/?p=1032</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Platea dictumst quisque sagittis purus sit. Mattis enim ut tellus elementum. Sed faucibus turpis in eu mi bibendum. Sed felis eget velit aliquet sagittis id consectetur purus ut. Et egestas quis ipsum suspendisse ultrices gravida. Duis at consectetur lorem donec massa sapien. Commodo odio aenean sed adipiscing diam donec adipiscing tristique. Nisl condimentum id venenatis a. Adipiscing vitae proin sagittis nisl rhoncus. Fames ac turpis egestas integer eget aliquet nibh praesent tristique. Bibendum ut tristique et egestas quis ipsum suspendisse ultrices. Scelerisque viverra mauris in aliquam sem fringilla ut morbi tincidunt.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Ut faucibus pulvinar elementum integer. Risus feugiat in ante metus dictum at tempor commodo ullamcorper. Nibh ipsum consequat nisl vel pretium. Fames ac turpis egestas integer. Nisl nunc mi ipsum faucibus vitae aliquet nec. Arcu dui vivamus arcu felis bibendum ut tristique et. Sagittis purus sit amet volutpat consequat mauris nunc congue. Imperdiet dui accumsan sit amet nulla facilisi morbi tempus iaculis. Arcu cursus euismod quis viverra nibh. Amet mattis vulputate enim nulla aliquet. Vulputate odio ut enim blandit volutpat. Vestibulum mattis ullamcorper velit sed. Tortor vitae purus faucibus ornare.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":4} -->
-<h4 id="pellentesquenecnamaliquamsem">Pellentesque nec nam aliquam sem</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Cursus euismod quis viverra nibh cras. Potenti nullam ac tortor vitae. Pellentesque nec nam aliquam sem et tortor consequat id. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Pellentesque pulvinar pellentesque habitant morbi tristique senectus et netus et. Egestas dui id ornare arcu odio ut. Quam nulla porttitor massa id neque aliquam vestibulum morbi. Faucibus nisl tincidunt eget nullam. Viverra nibh cras pulvinar mattis nunc sed. Quis auctor elit sed vulputate. In nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Maecenas volutpat blandit aliquam etiam erat. Et netus et malesuada fames ac turpis egestas sed tempus. Lacus viverra vitae congue eu consequat. Eget arcu dictum varius duis at consectetur lorem donec massa. Consequat nisl vel pretium lectus quam id leo.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Amet venenatis urna cursus eget nunc scelerisque viverra mauris in. Varius morbi enim nunc faucibus a pellentesque sit amet. Cras tincidunt lobortis feugiat vivamus. Auctor eu augue ut lectus arcu bibendum at. Nulla porttitor massa id neque aliquam vestibulum morbi. Tincidunt nunc pulvinar sapien et. Ipsum suspendisse ultrices gravida dictum fusce. Non consectetur a erat nam at lectus urna. Arcu felis bibendum ut tristique et egestas quis ipsum. Id ornare arcu odio ut sem. Elit eget gravida cum sociis natoque.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Amet purus gravida quis blandit turpis cursus in hac habitasse. A diam maecenas sed enim. Duis at tellus at urna condimentum mattis pellentesque id nibh. Sagittis aliquam malesuada bibendum arcu vitae. Sit amet luctus venenatis lectus magna fringilla. Amet volutpat consequat mauris nunc congue nisi vitae. Ut aliquam purus sit amet luctus venenatis lectus magna fringilla. Neque sodales ut etiam sit amet. At consectetur lorem donec massa sapien faucibus et. Ut ornare lectus sit amet est placerat in egestas.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Nunc mi ipsum faucibus vitae aliquet nec ullamcorper sit amet. Ante in nibh mauris cursus mattis molestie a iaculis. Est ultricies integer quis auctor elit sed vulputate mi sit. Maecenas pharetra convallis posuere morbi leo urna.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>Est lorem ipsum dolor sit. Nunc pulvinar sapien et ligula ullamcorper malesuada proin. Eu augue ut lectus arcu bibendum. Nulla facilisi etiam dignissim diam quis enim lobortis scelerisque fermentum. At quis risus sed vulputate odio ut enim blandit volutpat. Non diam phasellus vestibulum lorem sed risus ultricies tristique nulla. Odio euismod lacinia at quis risus sed vulputate odio ut. Adipiscing elit ut aliquam purus sit. Tristique senectus et netus et malesuada fames ac turpis. Ornare lectus sit amet est. Mauris augue neque gravida in fermentum et sollicitudin ac. Aliquam sem et tortor consequat id porta. Fusce ut placerat orci nulla pellentesque. At imperdiet dui accumsan sit amet. Luctus accumsan tortor posuere ac ut. Justo donec enim diam vulputate ut pharetra sit amet aliquam. Sed egestas egestas fringilla phasellus faucibus scelerisque. Cras pulvinar mattis nunc sed. Euismod elementum nisi quis eleifend quam adipiscing vitae.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Eu lobortis elementum nibh tellus molestie nunc non blandit. Vitae congue mauris rhoncus aenean. Etiam tempor orci eu lobortis elementum nibh. Convallis posuere morbi leo urna molestie at elementum eu facilisis. Ut lectus arcu bibendum at varius vel. At ultrices mi tempus imperdiet nulla malesuada. Amet est placerat in egestas erat imperdiet sed. A diam sollicitudin tempor id eu. Curabitur vitae nunc sed velit dignissim sodales ut eu. Dolor purus non enim praesent elementum facilisis leo vel. Vel turpis nunc eget lorem dolor sed viverra. Risus nullam eget felis eget nunc lobortis mattis aliquam. A erat nam at lectus. Sit amet consectetur adipiscing elit ut aliquam purus sit amet. Facilisi etiam dignissim diam quis enim. Rutrum tellus pellentesque eu tincidunt tortor. Lorem ipsum dolor sit amet consectetur. Nulla aliquet enim tortor at. Suspendisse in est ante in nibh mauris. Id porta nibh venenatis cras sed felis.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-				
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Platea dictumst quisque sagittis purus sit. Mattis enim ut tellus elementum.				]]></excerpt:encoded>
-		<wp:post_id>1032</wp:post_id>
-		<wp:post_date><![CDATA[2019-03-25 10:58:25]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-03-25 10:58:25]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[two-calgarians-among-four-dead]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="computer"><![CDATA[Computer]]></category>
-		<category domain="post_tag" nicename="documentation"><![CDATA[documentation]]></category>
-		<category domain="post_tag" nicename="trending"><![CDATA[Trending]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[162]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[featured]]></wp:meta_key>
-		<wp:meta_value><![CDATA[No]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_featured]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_5eaa8d159dcfe]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Endangered leatherback sea turtle spotted off B.C. coast</title>
-		<link>https://wp-test.themeix.com/2019/03/25/endangered-leatherback-sea-turtle-spotted-off-b-c-coast/</link>
-		<pubDate>Mon, 25 Mar 2019 11:00:10 +0000</pubDate>
-		<dc:creator><![CDATA[siteadmin]]></dc:creator>
-		<guid isPermaLink="false">https://doxy-wp.themeix.com/?p=1038</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">When you go to edit a post and see special characters and colours intertwined between the words, those are Markdown shortcuts which tell Ghost what to do with the words in your document. The biggest benefit of Markdown is that you can quickly apply formatting as you type, without needing to pause.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>At the bottom of the editor, you’ll find a toolbar with basic formatting options to help you get started as easily as possible. You’ll also notice that there’s a&nbsp;<strong>?</strong>&nbsp;icon, which contains more advanced shortcuts.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>For now, though, let’s run you through some of the basics. You’ll want to make sure you’re editing this post in order to see all the Markdown we’ve used.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 id="formattingtext">Formatting text</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>The most common shortcuts are of course,&nbsp;<strong>bold</strong>&nbsp;text,&nbsp;<em>italic</em>&nbsp;text, and&nbsp;<a href="https://example.com/">hyperlinks</a>. These generally make up the bulk of any document. You can type the characters out, but you can also use keyboard shortcuts.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul><li><code>CMD/Ctrl + B</code>&nbsp;for Bold</li><li><code>CMD/Ctrl + I</code>&nbsp;for Italic</li><li><code>CMD/Ctrl + K</code>&nbsp;for a Link</li><li><code>CMD/Ctrl + H</code>&nbsp;for a Heading (Press multiple times for h2/h3/h4/etc)</li></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>With just a couple of extra characters here and there, you’re well on your way to creating a beautifully formatted story.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 id="insertingimages">Inserting images</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Images in Markdown look just the same as links, except they’re prefixed with an exclamation mark, like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><code>![Image description](/path/to/image.jpg)</code></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image -->
-<figure class="wp-block-image"><img src="https://casper.ghost.org/v1.0.0/images/computer.jpg" alt="Computer"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-<p>Most Markdown editors don’t make you type this out, though. In Ghost you can click on the image icon in the toolbar at the bottom of the editor, or you can just click and drag an image from your desktop directly into the editor. Both will upload the image for you and generate the appropriate Markdown.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><em><strong>Important Note:</strong>&nbsp;Ghost does not currently have automatic image resizing, so it’s always a good idea to make sure your images aren’t gigantic files&nbsp;<strong>before</strong>&nbsp;uploading them to Ghost.</em></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 id="makinglists">Making lists</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Lists in HTML are a formatting nightmare, but in Markdown they become an absolute breeze with just a couple of characters and a bit of smart automation. For numbered lists, just write out the numbers. For bullet lists, just use&nbsp;<code>*</code>&nbsp;or&nbsp;<code>-</code>&nbsp;or&nbsp;<code>+</code>. Like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list {"ordered":true} -->
-<ol><li>Crack the eggs over a bowl</li><li>Whisk them together</li><li>Make an omelette</li></ol>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>or</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul><li>Remember to buy milk</li><li>Feed the cat</li><li>Come up with idea for next story</li></ul>
-<!-- /wp:list -->
-
-<!-- wp:heading -->
-<h2 id="addingquotes">Adding quotes</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>When you want to pull out a particularly good excerpt in the middle of a piece, you can use&nbsp;<code>&gt;</code>&nbsp;at the beginning of a paragraph to turn it into a Blockquote. You might’ve seen this formatting before in email clients.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>A well placed quote guides a reader through a story, helping them to understand the most important points being made</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>All themes handles blockquotes slightly differently. Sometimes they’ll look better kept shorter, while other times you can quote fairly hefty amounts of text and get away with it. Generally, the safest option is to use blockquotes sparingly.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 id="dividingthingsup">Dividing things up</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>If you’re writing a piece in parts and you just feel like you need to divide a couple of sections distinctly from each other, a horizontal rule might be just what you need. Dropping&nbsp;<code>---</code>&nbsp;on a new line will create a sleek divider, anywhere you want it.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:separator -->
-<hr class="wp-block-separator"/>
-<!-- /wp:separator -->
-
-<!-- wp:paragraph -->
-<p>This should get you going with the vast majority of what you need to do in the editor, but if you’re still curious about more advanced tips then check out the&nbsp;<a href="https://peony.themeix.com/advanced-markdown/">Advanced Markdown Guide</a>&nbsp;– or if you’d rather learn about how Ghost taxononomies work, we’ve got a overview of&nbsp;<a href="https://peony.themeix.com/using-tags/">how to use Ghost tags</a>.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-				
-				When you go to edit a post and see special characters and colours intertwined between the words, those are Markdown shortcuts which tell Ghost what to do with the words				]]></excerpt:encoded>
-		<wp:post_id>1038</wp:post_id>
-		<wp:post_date><![CDATA[2019-03-25 11:00:10]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-03-25 11:00:10]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[endangered-leatherback-sea-turtle-spotted-off-b-c-coast]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="documentation"><![CDATA[documentation]]></category>
-		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1044]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[featured]]></wp:meta_key>
-		<wp:meta_value><![CDATA[No]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_featured]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_5eaa8d159dcfe]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title></title>
 		<link>https://wp-test.themeix.com/2020/10/06/1089/</link>
 		<pubDate>Tue, 06 Oct 2020 06:54:10 +0000</pubDate>
@@ -3253,7 +2565,7 @@ From here, you might be interested in managing some more specific&nbsp;<a href="
 		<wp:post_name><![CDATA[1089]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>10</wp:menu_order>
+		<wp:menu_order>13</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3308,7 +2620,7 @@ From here, you might be interested in managing some more specific&nbsp;<a href="
 		<wp:post_name><![CDATA[pages]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
+		<wp:menu_order>6</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3363,7 +2675,7 @@ From here, you might be interested in managing some more specific&nbsp;<a href="
 		<wp:post_name><![CDATA[category]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
+		<wp:menu_order>9</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3418,7 +2730,7 @@ From here, you might be interested in managing some more specific&nbsp;<a href="
 		<wp:post_name><![CDATA[blog-details]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>7</wp:menu_order>
+		<wp:menu_order>10</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3473,7 +2785,7 @@ From here, you might be interested in managing some more specific&nbsp;<a href="
 		<wp:post_name><![CDATA[1094]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
+		<wp:menu_order>7</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3528,7 +2840,7 @@ From here, you might be interested in managing some more specific&nbsp;<a href="
 		<wp:post_name><![CDATA[1095]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
+		<wp:menu_order>8</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3567,254 +2879,246 @@ From here, you might be interested in managing some more specific&nbsp;<a href="
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact form 1</title>
-		<link>https://wp-test.themeix.com/?post_type=wpcf7_contact_form&#038;p=6</link>
-		<pubDate>Sat, 03 Oct 2020 15:39:20 +0000</pubDate>
+		<title>Home V2</title>
+		<link>https://wp-test.themeix.com/home-v2/</link>
+		<pubDate>Tue, 12 Jan 2021 06:06:49 +0000</pubDate>
 		<dc:creator><![CDATA[siteadmin]]></dc:creator>
-		<guid isPermaLink="false">https://wp-test.themeix.com/?post_type=wpcf7_contact_form&#038;p=6</guid>
+		<guid isPermaLink="false">https://wp-test.themeix.com/?page_id=1109</guid>
 		<description></description>
-		<content:encoded><![CDATA[<label> Your Name (required)
-    [text* your-name] </label>
-
-<label> Your Email (required)
-    [email* your-email] </label>
-
-<label> Subject
-    [text your-subject] </label>
-
-<label> Your Message
-    [textarea your-message] </label>
-
-[submit "Send"]
-WordPress Test "[your-subject]"
-WordPress Test <wordpress@wp-test.themeix.com>
-From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on WordPress Test (https://wp-test.themeix.com)
-seakashdiu@gmail.com
-Reply-To: [your-email]
-
-0
-0
-
-WordPress Test "[your-subject]"
-WordPress Test <wordpress@wp-test.themeix.com>
-Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on WordPress Test (https://wp-test.themeix.com)
-[your-email]
-Reply-To: seakashdiu@gmail.com
-
-0
-0
-Thank you for your message. It has been sent.
-There was an error trying to send your message. Please try again later.
-One or more fields have an error. Please check and try again.
-There was an error trying to send your message. Please try again later.
-You must accept the terms and conditions before sending your message.
-The field is required.
-The field is too long.
-The field is too short.]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6</wp:post_id>
-		<wp:post_date><![CDATA[2020-10-03 15:39:20]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-10-03 15:39:20]]></wp:post_date_gmt>
+		<wp:post_id>1109</wp:post_id>
+		<wp:post_date><![CDATA[2021-01-12 06:06:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-01-12 06:06:49]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
+		<wp:post_name><![CDATA[home-v2]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[_form]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<label> Your Name (required)
-    [text* your-name] </label>
-
-<label> Your Email (required)
-    [email* your-email] </label>
-
-<label> Subject
-    [text your-subject] </label>
-
-<label> Your Message
-    [textarea your-message] </label>
-
-[submit "Send"]]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:31:"WordPress Test "[your-subject]"";s:6:"sender";s:46:"WordPress Test <wordpress@wp-test.themeix.com>";s:4:"body";s:180:"From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on WordPress Test (https://wp-test.themeix.com)";s:9:"recipient";s:20:"seakashdiu@gmail.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:31:"WordPress Test "[your-subject]"";s:6:"sender";s:46:"WordPress Test <wordpress@wp-test.themeix.com>";s:4:"body";s:122:"Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on WordPress Test (https://wp-test.themeix.com)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:30:"Reply-To: seakashdiu@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
-		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[index-v2.php]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact Form</title>
-		<link>https://wp-test.themeix.com/?post_type=wpcf7_contact_form&#038;p=9</link>
-		<pubDate>Sat, 03 Oct 2020 15:48:04 +0000</pubDate>
+		<title>Home V3</title>
+		<link>https://wp-test.themeix.com/home-v3/</link>
+		<pubDate>Tue, 12 Jan 2021 06:07:47 +0000</pubDate>
 		<dc:creator><![CDATA[siteadmin]]></dc:creator>
-		<guid isPermaLink="false">https://wp-test.themeix.com/?post_type=wpcf7_contact_form&#038;p=9</guid>
+		<guid isPermaLink="false">https://wp-test.themeix.com/?page_id=1111</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="form-row">
-    <div class="form-group col-md-6">
-        [text* your-name class:form-control placeholder "Your Name"]
-    </div>
-    <div class="form-group col-md-6">
-        [email* your-email class:form-control placeholder "Your Email"]
-    </div>
- </div>
- <div class="form-row">
-    <div class="form-group col-md-12 text-center">
-        [textarea* your-message class:form-control placeholder "Message"]
-    </div>
- </div>
- <button type="submit" class="btn btn-primary">Submit</button>
-1
-WordPress Test "[your-subject]"
-WordPress Test <wordpress@wp-test.themeix.com>
-seakashdiu@gmail.com
-From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on WordPress Test (https://wp-test.themeix.com)
-Reply-To: [your-email]
-
-
-
-
-WordPress Test "[your-subject]"
-WordPress Test <wordpress@wp-test.themeix.com>
-[your-email]
-Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on WordPress Test (https://wp-test.themeix.com)
-Reply-To: seakashdiu@gmail.com
-
-
-
-Thank you for your message. It has been sent.
-There was an error trying to send your message. Please try again later.
-One or more fields have an error. Please check and try again.
-There was an error trying to send your message. Please try again later.
-You must accept the terms and conditions before sending your message.
-The field is required.
-The field is too long.
-The field is too short.
-The date format is incorrect.
-The date is before the earliest one allowed.
-The date is after the latest one allowed.
-There was an unknown error uploading the file.
-You are not allowed to upload files of this type.
-The file is too big.
-There was an error uploading the file.
-The number format is invalid.
-The number is smaller than the minimum allowed.
-The number is larger than the maximum allowed.
-The answer to the quiz is incorrect.
-The e-mail address entered is invalid.
-The URL is invalid.
-The telephone number is invalid.]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>9</wp:post_id>
-		<wp:post_date><![CDATA[2020-10-03 15:48:04]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-10-03 15:48:04]]></wp:post_date_gmt>
+		<wp:post_id>1111</wp:post_id>
+		<wp:post_date><![CDATA[2021-01-12 06:07:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-01-12 06:07:47]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form]]></wp:post_name>
+		<wp:post_name><![CDATA[home-v3]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[_form]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<div class="form-row">
-    <div class="form-group col-md-6">
-        [text* your-name class:form-control placeholder "Your Name"]
-    </div>
-    <div class="form-group col-md-6">
-        [email* your-email class:form-control placeholder "Your Email"]
-    </div>
- </div>
- <div class="form-row">
-    <div class="form-group col-md-12 text-center">
-        [textarea* your-message class:form-control placeholder "Message"]
-    </div>
- </div>
- <button type="submit" class="btn btn-primary">Submit</button>]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[index-v3.php]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Home V4</title>
+		<link>https://wp-test.themeix.com/home-v4/</link>
+		<pubDate>Tue, 12 Jan 2021 06:08:15 +0000</pubDate>
+		<dc:creator><![CDATA[siteadmin]]></dc:creator>
+		<guid isPermaLink="false">https://wp-test.themeix.com/?page_id=1113</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1113</wp:post_id>
+		<wp:post_date><![CDATA[2021-01-12 06:08:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-01-12 06:08:15]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home-v4]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[index-v4.php]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://wp-test.themeix.com/2021/01/12/1115/</link>
+		<pubDate>Tue, 12 Jan 2021 06:09:22 +0000</pubDate>
+		<dc:creator><![CDATA[siteadmin]]></dc:creator>
+		<guid isPermaLink="false">https://wp-test.themeix.com/?p=1115</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1115</wp:post_id>
+		<wp:post_date><![CDATA[2021-01-12 06:09:22]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-01-12 06:09:22]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[1115]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:31:"WordPress Test "[your-subject]"";s:6:"sender";s:46:"WordPress Test <wordpress@wp-test.themeix.com>";s:9:"recipient";s:20:"seakashdiu@gmail.com";s:4:"body";s:180:"From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on WordPress Test (https://wp-test.themeix.com)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1085]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:31:"WordPress Test "[your-subject]"";s:6:"sender";s:46:"WordPress Test <wordpress@wp-test.themeix.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:122:"Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on WordPress Test (https://wp-test.themeix.com)";s:18:"additional_headers";s:30:"Reply-To: seakashdiu@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1113]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:22:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";s:12:"invalid_date";s:29:"The date format is incorrect.";s:14:"date_too_early";s:44:"The date is before the earliest one allowed.";s:13:"date_too_late";s:41:"The date is after the latest one allowed.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:20:"The file is too big.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:14:"invalid_number";s:29:"The number format is invalid.";s:16:"number_too_small";s:47:"The number is smaller than the minimum allowed.";s:16:"number_too_large";s:46:"The number is larger than the maximum allowed.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:13:"invalid_email";s:38:"The e-mail address entered is invalid.";s:11:"invalid_url";s:19:"The URL is invalid.";s:11:"invalid_tel";s:32:"The telephone number is invalid.";}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
-		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://wp-test.themeix.com/2021/01/12/1116/</link>
+		<pubDate>Tue, 12 Jan 2021 06:09:22 +0000</pubDate>
+		<dc:creator><![CDATA[siteadmin]]></dc:creator>
+		<guid isPermaLink="false">https://wp-test.themeix.com/?p=1116</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1116</wp:post_id>
+		<wp:post_date><![CDATA[2021-01-12 06:09:22]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-01-12 06:09:22]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[1116]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1085]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1111]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://wp-test.themeix.com/2021/01/12/1117/</link>
+		<pubDate>Tue, 12 Jan 2021 06:09:22 +0000</pubDate>
+		<dc:creator><![CDATA[siteadmin]]></dc:creator>
+		<guid isPermaLink="false">https://wp-test.themeix.com/?p=1117</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1117</wp:post_id>
+		<wp:post_date><![CDATA[2021-01-12 06:09:22]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-01-12 06:09:22]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[1117]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1085]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1109]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3957,114 +3261,6 @@ This e-mail was sent from a contact form on WordPress Test (https://wp-test.them
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Newsletter</title>
-		<link>https://wp-test.themeix.com/?post_type=wpcf7_contact_form&#038;p=19</link>
-		<pubDate>Sat, 03 Oct 2020 16:33:39 +0000</pubDate>
-		<dc:creator><![CDATA[siteadmin]]></dc:creator>
-		<guid isPermaLink="false">https://wp-test.themeix.com/?post_type=wpcf7_contact_form&#038;p=19</guid>
-		<description></description>
-		<content:encoded><![CDATA[<div class="form-group"> [email* your-email class:subscribe-email placeholder "Your Name"]<button class="button primary" type="submit">Subscribe</button> </div>
-1
-WordPress Test "[your-subject]"
-WordPress Test <wordpress@wp-test.themeix.com>
-seakashdiu@gmail.com
-From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on WordPress Test (https://wp-test.themeix.com)
-Reply-To: [your-email]
-
-
-
-
-WordPress Test "[your-subject]"
-WordPress Test <wordpress@wp-test.themeix.com>
-[your-email]
-Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on WordPress Test (https://wp-test.themeix.com)
-Reply-To: seakashdiu@gmail.com
-
-
-
-Thank you for your subscribe
-There was an error. Please try again later.
-One or more fields have an error. Please check and try again.
-There was an error trying to send your message. Please try again later.
-You must accept the terms and conditions before sending your message.
-The field is required.
-The field is too long.
-The field is too short.
-The date format is incorrect.
-The date is before the earliest one allowed.
-The date is after the latest one allowed.
-There was an unknown error uploading the file.
-You are not allowed to upload files of this type.
-The file is too big.
-There was an error uploading the file.
-The number format is invalid.
-The number is smaller than the minimum allowed.
-The number is larger than the maximum allowed.
-The answer to the quiz is incorrect.
-The e-mail address entered is invalid.
-The URL is invalid.
-The telephone number is invalid.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>19</wp:post_id>
-		<wp:post_date><![CDATA[2020-10-03 16:33:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-10-03 16:33:39]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[newsletter]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_form]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<div class="form-group"> [email* your-email class:subscribe-email placeholder "Your Name"]<button class="button primary" type="submit">Subscribe</button> </div>]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:31:"WordPress Test "[your-subject]"";s:6:"sender";s:46:"WordPress Test <wordpress@wp-test.themeix.com>";s:9:"recipient";s:20:"seakashdiu@gmail.com";s:4:"body";s:180:"From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on WordPress Test (https://wp-test.themeix.com)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:31:"WordPress Test "[your-subject]"";s:6:"sender";s:46:"WordPress Test <wordpress@wp-test.themeix.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:122:"Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on WordPress Test (https://wp-test.themeix.com)";s:18:"additional_headers";s:30:"Reply-To: seakashdiu@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:22:{s:12:"mail_sent_ok";s:28:"Thank you for your subscribe";s:12:"mail_sent_ng";s:43:"There was an error. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";s:12:"invalid_date";s:29:"The date format is incorrect.";s:14:"date_too_early";s:44:"The date is before the earliest one allowed.";s:13:"date_too_late";s:41:"The date is after the latest one allowed.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:20:"The file is too big.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:14:"invalid_number";s:29:"The number format is invalid.";s:16:"number_too_small";s:47:"The number is smaller than the minimum allowed.";s:16:"number_too_large";s:46:"The number is larger than the maximum allowed.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:13:"invalid_email";s:38:"The e-mail address entered is invalid.";s:11:"invalid_url";s:19:"The URL is invalid.";s:11:"invalid_tel";s:32:"The telephone number is invalid.";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
-		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5130,98 +4326,383 @@ This e-mail was sent from a contact form on WordPress Test (https://wp-test.them
 							</wp:comment>
 					</item>
 					<item>
-		<title>7 UX Principles for Creating a Great Website</title>
-		<link>https://wp-test.themeix.com/2019/10/30/7-ux-principles-for-creating-a-great-website/</link>
-		<pubDate>Wed, 30 Oct 2019 05:56:29 +0000</pubDate>
+		<title>The WordPress editor has everything you need</title>
+		<link>https://wp-test.themeix.com/2019/03/18/molestie-nostra-consequatur-vivamus-aliqua-ridiculus/</link>
+		<pubDate>Mon, 18 Mar 2019 03:38:04 +0000</pubDate>
 		<dc:creator><![CDATA[siteadmin]]></dc:creator>
-		<guid isPermaLink="false">http://mingo-wp.designingmarket.com/?p=113</guid>
+		<guid isPermaLink="false">http://doxy-wp.themeix.com/?p=812</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>MCT oil is a supplement often added to smoothies, bulletproof coffee and salad dressings.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>As the name suggests, medium-chain triglyceride (MCT) oil contains medium-length chains of fats called triglycerides. Due to their shorter length, MCTs are easily digested and many health benefits are linked to the way your body processes these fats.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>MCT oil is most commonly extracted from coconut oil, as more than 50% of the fat in coconut oil comes from MCTs. These fats are also found in many other foods, such as palm oil and dairy products (<a href="/" target="_blank" rel="noreferrer noopener">1Trusted Source</a>).</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Four different types of MCTs exist, of which caprylic and capric acid are most commonly used for MCT oil. In some cases, these specific types have unique benefits.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Here are 7 science-backed benefits you can get from adding MCT oil to your diet.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":3} -->
-<h3>Promotes Weight </h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>There are several reasons why MCT oil may be beneficial when you’re trying to lose weight.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>MCT oil has been shown to increase the release of two hormones that promote the feeling of fullness in the body: peptide YY and leptin (<a href="/" target="_blank" rel="noreferrer noopener">2Trusted Source</a>).</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>It may even be better than coconut oil in keeping you full. One study found that people taking two tablespoons of MCT oil as part of their breakfast ended up eating less food for lunch compared to those taking coconut oil (<a href="/" target="_blank" rel="noreferrer noopener">3</a>).</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>The same study also discovered a lower rise in triglycerides and glucose with MCT oil, which may also influence the feeling of fullness.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Additionally, taking&nbsp;<a href="https://www.healthline.com/nutrition/mct-oil-101">MCT oil</a>&nbsp;has been shown to significantly reduce body weight and waist circumference. Researchers even report that it could help prevent obesity (<a href="/" target="_blank" rel="noreferrer noopener">4Trusted Source</a>,&nbsp;<a href="/" target="_blank" rel="noreferrer noopener">5Trusted Source</a>,&nbsp;<a href="/" target="_blank" rel="noreferrer noopener">6Trusted Source</a>).</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>MCT oil has about 10% fewer calories than long-chain triglycerides (LCTs), which are found in foods such as olive oil, nuts and avocados (<a href="/" target="_blank" rel="noreferrer noopener">7Trusted Source</a>,&nbsp;<a href="/" target="_blank" rel="noreferrer noopener">8</a>).</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Your body also processes MCTs differently, which may help you burn calories (<a href="/" target="_blank" rel="noreferrer noopener">4Trusted Source</a>,&nbsp;<a href="/" target="_blank" rel="noreferrer noopener">9Trusted Source</a>,&nbsp;<a href="/" target="_blank" rel="noreferrer noopener">10Trusted Source</a>).</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Your body can use MCT oil as an instant source of energy, making it unnecessary to store fat for this purpose. Nevertheless, it’s important to note that your body may adapt to this dietary change, leading to only temporary results (<a href="/" target="_blank" rel="noreferrer noopener">6Trusted Source</a>,&nbsp;<a href="/" target="_blank" rel="noreferrer noopener">10Trusted Source</a>).</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>MCTs can be converted into ketones, which are produced from the breakdown of fat when carb intake is low. If you’re following a ketogenic diet, which is very low in carbs yet high in fat, then taking MCT oil can help you stay in the fat-burning state known as&nbsp;<a href="/">ketosis</a>.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Lastly, your gut environment is very important when it comes to your weight. MCT oil can help optimize the growth of good bacteria and support the gut lining, which could also help you lose weight (<a href="/" target="_blank" rel="noreferrer noopener">11Trusted Source</a>).</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
+<p>The Ghost editor has everything you need to fully optimise your content. This is where you can add tags and authors, feature a post, or turn a post into a page.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
-<blockquote class="wp-block-quote"><p> <strong>SUMMARY</strong>MCT oil may support weight loss by increasing fullness, fat loss, energy burning, ketone production and by improving your gut environment. </p></blockquote>
+<blockquote class="wp-block-quote"><p>Access the post settings menu in the top right hand corner of the editor.</p></blockquote>
 <!-- /wp:quote -->
 
+<p><!--nextpage--></p>
+
+<!-- wp:heading -->
+<h2 id="post-feature-image">Post feature image</h2>
+<!-- /wp:heading -->
+
 <!-- wp:paragraph -->
-<p>And there you have it! A Spooky Spider Crackle Cake.</p>
+<p>Insert your post feature image from the very top of the post settings menu. Consider resizing or optimising your image first to ensure it's an appropriate size.</p>
+<!-- /wp:paragraph -->
+
+<p><!--nextpage--></p>
+
+<!-- wp:heading -->
+<h2 id="structured-data-seo">Structured data &amp; SEO</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Customise your social media sharing cards for Facebook and Twitter, enabling you to add custom images, titles and descriptions for social media.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>To serve, use a sharp knife cut down the centre, and the cake should crack into pieces. This cake will keep in the fridge for up to two weeks, making it an ideal recipe to prepare in advance.</p>
+<p>There’s no need to hard code your meta data. You can set your meta title and description using the post settings tool, which has a handy character guide and SERP preview.</p>
+<!-- /wp:paragraph -->
+
+<p><!--nextpage--></p>
+
+<!-- wp:paragraph -->
+<p>Ghost will automatically implement structured data for your publication using JSON-LD to further optimise your content.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You can test that the structured data&nbsp;<a href="https://schema.org/">schema</a>&nbsp;on your site is working as it should using&nbsp;<a href="https://search.google.com/structured-data/testing-tool">Google’s structured data tool</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 id="code-injection">Code Injection</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This tool allows you to inject code on a per post or page basis, or across your entire site. This means you can modify CSS, add unique tracking codes, or add other scripts to the head or foot of your publication without making edits to your theme files.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>To add code site-wide</strong>, use the code injection tool&nbsp;<a href="https://darkbiz.themeix.com/ghost/settings/code-injection/">in the main admin menu</a>. This is useful for adding a Facebook Pixel, a Google Analytics tracking code, or to start tracking with any other analytics tool.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>To add code to a post or page</strong>, use the code injection tool within the post settings menu. This is useful if you want to add art direction, scripts or styles that are only applicable to one post or page.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>From here, you might be interested in managing some more specific&nbsp;<a href="https://darkbiz.themeix.com/admin-settings/">admin settings</a>!</p>
 <!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>113</wp:post_id>
-		<wp:post_date><![CDATA[2019-10-30 05:56:29]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-10-30 05:56:29]]></wp:post_date_gmt>
+		<excerpt:encoded><![CDATA[
+				
+								]]></excerpt:encoded>
+		<wp:post_id>812</wp:post_id>
+		<wp:post_date><![CDATA[2019-03-18 03:38:04]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-03-18 03:38:04]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[7-ux-principles-for-creating-a-great-website]]></wp:post_name>
+		<wp:post_name><![CDATA[molestie-nostra-consequatur-vivamus-aliqua-ridiculus]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_tag" nicename="getting-started"><![CDATA[Getting started]]></category>
+		<category domain="category" nicename="trending"><![CDATA[Trending]]></category>
+		<category domain="post_tag" nicename="trending"><![CDATA[Trending]]></category>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1050]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[featured]]></wp:meta_key>
+		<wp:meta_value><![CDATA[No]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_featured]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5eaa8d159dcfe]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Bestdemestic Annoc ETC Discover</title>
+		<link>https://wp-test.themeix.com/2019/03/20/bestdemestic-annoc-etc-discover/</link>
+		<pubDate>Wed, 20 Mar 2019 09:41:15 +0000</pubDate>
+		<dc:creator><![CDATA[siteadmin]]></dc:creator>
+		<guid isPermaLink="false">http://doxy-wp.themeix.com/?p=841</guid>
+		<description></description>
+		<content:encoded><![CDATA[
+				
+				<!-- wp:paragraph -->
+<p> Welcome, it's great to have you here.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We know that first impressions are important, so we've populated your new site with some initial&nbsp;<strong>getting started</strong>posts that will help you get familiar with everything in no time. This is the first one!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>A few things you should know upfront</strong>:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Ghost is designed for ambitious, professional publishers who want to actively build a business around their content. That's who it works best for.</li><li>The entire platform can be modified and customised to suit your needs. It's very powerful, but does require some knowledge of code. Ghost is not necessarily a good platform for beginners or people who just want a simple personal blog.</li><li>For the best experience we recommend downloading the&nbsp;<a href="https://ghost.org/downloads/">Ghost Desktop App</a>&nbsp;for your computer, which is the best way to access your Ghost site on a desktop device.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Ghost is made by an independent non-profit organisation called the Ghost Foundation. We are 100% self funded by revenue from our&nbsp;<a href="https://ghost.org/pricing">Ghost(Pro)</a>&nbsp;service, and every penny we make is re-invested into funding further development of free, open source technology for modern publishing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The version of Ghost you are looking at right now would not have been made possible without generous contributions from the open source&nbsp;<a href="https://github.com/TryGhost">community</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 id="next-up-the-editor">Next up, the editor</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The main thing you'll want to read about next is probably:&nbsp;<a href="https://axotic.themeix.com/the-editor/">the Ghost editor</a>. This is where the good stuff happens.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p><em>By the way, once you're done reading, you can simply delete the default&nbsp;<strong>Ghost</strong>&nbsp;user from your team to remove all of these introductory posts!</em></p></blockquote>
+<!-- /wp:quote -->				]]></content:encoded>
+		<excerpt:encoded><![CDATA[
+				
+				Welcome, it's great to have you here. We know that first impressions are important, so we've populated your new site with some initial getting startedposts that will help you get familiar				]]></excerpt:encoded>
+		<wp:post_id>841</wp:post_id>
+		<wp:post_date><![CDATA[2019-03-20 09:41:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-03-20 09:41:15]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[bestdemestic-annoc-etc-discover]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
+		<category domain="category" nicename="trending"><![CDATA[Trending]]></category>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[842]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Checking Image Formating</title>
+		<link>https://wp-test.themeix.com/2019/03/20/checking-image-formating/</link>
+		<pubDate>Wed, 20 Mar 2019 09:42:22 +0000</pubDate>
+		<dc:creator><![CDATA[siteadmin]]></dc:creator>
+		<guid isPermaLink="false">http://doxy-wp.themeix.com/?p=844</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Molestie urna volutpat quaerat blandit vestibulum, illo molestiae, cumque aut? Vivamus metus minus? Nunc, optio! Diam. Ipsum autem, justo congue, non rem, dicta reprehenderit. Quibusdam vulputate neque atque officia ullam. Commodo quos, mus placeat dignissim sollicitudin repudiandae odio amet necessitatibus nostrum rutrum, distinctio molestias, quas, ab sed in, platea. Cras? Aspernatur fusce etiam</p>
+<!-- /wp:paragraph -->
+
+<p><!--nextpage--></p>
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://axotic.themeix.com/content/images/2019/02/homes-for-rent-dayton-ohio.jpg" alt="" /></figure>
+<p>&nbsp;</p>
+<!-- /wp:image -->
+
+<p><!--nextpage--></p>
+
+<!-- wp:paragraph -->
+<p>Sollicitudin occaecati incididunt. Tempus. Feugiat non ratione amet modi, vulputate libero perspiciatis cupidatat pretium praesentium ullamco molestiae. Vel adipisicing primis assumenda? Cras cupiditate netus, facilisis risus? Ratione expedita magnam? Praesent fuga vel dictumst quidem adipisicing rutrum ipsa minus sem tellus, harum tellus! Eius, accumsan?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://axotic.themeix.com/content/images/2019/02/front-cover-website.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Rutrum hac, animi adipisicing. Ipsa tellus taciti modi! Primis asperiores euismod cupiditate sequi orci ab blanditiis, placerat mauris! Primis bibendum labore, mollit eveniet illo? Natoque tristique nulla vitae. Provident id officia, inventore blandit laboriosam fugit aliquip. Eros nunc quibusdam consectetur, aliquid rutrum facilis harum in, aperiam adipisci dignissim!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Quaerat facilis molestias turpis fuga! Venenatis! Quo felis, animi sagittis vestibulum ut, nisl ullamco, et delectus curae. Repellat tenetur non, voluptatum, cras? Facilisis consectetuer, ipsam proident nostrud senectus, delectus habitasse, conubia labore magni. Adipiscing inceptos delectus? Aliquid placeat, praesent. Ullamco netus excepteur. Doloremque ullam, doloremque hymenaeos nec maiores diamlorem nesciunt vulputate qui.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://axotic.themeix.com/content/images/2019/03/48358151_2316826121869089_5755321829510086656_n.jpg" alt=""/></figure>
+<!-- /wp:image -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[
+				
+				Molestie urna volutpat quaerat blandit vestibulum, illo molestiae, cumque aut? Vivamus metus minus? Nunc, optio! Diam. Ipsum autem, justo congue, non rem, dicta reprehenderit. Quibusdam vulputate neque atque officia ullam.				]]></excerpt:encoded>
+		<wp:post_id>844</wp:post_id>
+		<wp:post_date><![CDATA[2019-03-20 09:42:22]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-03-20 09:42:22]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[checking-image-formating]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="sports"><![CDATA[sports]]></category>
+		<category domain="category" nicename="trending"><![CDATA[Trending]]></category>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1048]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[featured]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Yes]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_featured]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5eaa8d159dcfe]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>May Make Fighting Melanoma Tougher</title>
+		<link>https://wp-test.themeix.com/2019/03/25/smoking-may-make-fighting-melanoma-tougher/</link>
+		<pubDate>Mon, 25 Mar 2019 09:25:20 +0000</pubDate>
+		<dc:creator><![CDATA[siteadmin]]></dc:creator>
+		<guid isPermaLink="false">https://doxy-wp.themeix.com/?p=1020</guid>
+		<description></description>
+		<content:encoded><![CDATA[The Ghost editor has everything you need to fully optimise your content. This is where you can add tags and authors, feature a post, or turn a post into a page.
+<blockquote>Access the post settings menu in the top right hand corner of the editor.</blockquote>
+<h2 id="post-feature-image">Post feature image</h2>
+Insert your post feature image from the very top of the post settings menu. Consider resizing or optimising your image first to ensure it's an appropriate size.
+<h2 id="structured-data-seo">Structured data &amp; SEO</h2>
+Customise your social media sharing cards for Facebook and Twitter, enabling you to add custom images, titles and descriptions for social media.
+
+There’s no need to hard code your meta data. You can set your meta title and description using the post settings tool, which has a handy character guide and SERP preview.
+
+Ghost will automatically implement structured data for your publication using JSON-LD to further optimise your content.
+<pre><code class="hljs javascript">{
+    <span class="hljs-string">"@context"</span>: <span class="hljs-string">"https://schema.org"</span>,
+    <span class="hljs-string">"@type"</span>: <span class="hljs-string">"Article"</span>,
+    <span class="hljs-string">"publisher"</span>: {
+        <span class="hljs-string">"@type"</span>: <span class="hljs-string">"Organization"</span>,
+        <span class="hljs-string">"name"</span>: <span class="hljs-string">"Publishing options"</span>,
+        <span class="hljs-string">"logo"</span>: <span class="hljs-string">"https://static.ghost.org/ghost-logo.svg"</span>
+    },
+    <span class="hljs-string">"author"</span>: {
+        <span class="hljs-string">"@type"</span>: <span class="hljs-string">"Person"</span>,
+        <span class="hljs-string">"name"</span>: <span class="hljs-string">"Ghost"</span>,
+        <span class="hljs-string">"url"</span>: <span class="hljs-string">"http://demo.ghost.io/author/ghost/"</span>,
+        <span class="hljs-string">"sameAs"</span>: []
+    },
+    <span class="hljs-string">"headline"</span>: <span class="hljs-string">"Publishing options"</span>,
+    <span class="hljs-string">"url"</span>: <span class="hljs-string">"http://demo.ghost.io/publishing-options"</span>,
+    <span class="hljs-string">"datePublished"</span>: <span class="hljs-string">"2018-08-08T11:44:00.000Z"</span>,
+    <span class="hljs-string">"dateModified"</span>: <span class="hljs-string">"2018-08-09T12:06:21.000Z"</span>,
+    <span class="hljs-string">"keywords"</span>: <span class="hljs-string">"Getting Started"</span>,
+    <span class="hljs-string">"description"</span>: <span class="hljs-string">"The Ghost editor has everything you need to fully optimise your content. This is where you can add tags and authors, feature a post, or turn a post into a page."</span>,
+    }
+}
+    </code></pre>
+You can test that the structured data&nbsp;<a href="https://schema.org/">schema</a>&nbsp;on your site is working as it should using&nbsp;<a href="https://search.google.com/structured-data/testing-tool" rel="noreferrer nofollow noopener">Google’s structured data tool</a>.
+<h2 id="code-injection">Code Injection</h2>
+This tool allows you to inject code on a per post or page basis, or across your entire site. This means you can modify CSS, add unique tracking codes, or add other scripts to the head or foot of your publication without making edits to your theme files.
+<pre><code class="hljs javascript">  <span class="hljs-string">"name"</span>: <span class="hljs-string">"arnica"</span>,
+  <span class="hljs-string">"description"</span>: <span class="hljs-string">"Arnica The default personal blogging theme for Ghost. Beautiful, minimal and responsive."</span>,
+  <span class="hljs-string">"demo"</span>: <span class="hljs-string">"https://arnica.themeix.com"</span>,
+  <span class="hljs-string">"version"</span>: <span class="hljs-string">"1.0.0"</span>,
+  <span class="hljs-string">"engines"</span>: {
+    <span class="hljs-string">"ghost"</span>: <span class="hljs-string">"&gt;=2.0.0"</span>,
+    <span class="hljs-string">"ghost-api"</span>: <span class="hljs-string">"v2"</span>
+</code></pre>
+<strong>To add code site-wide</strong>, use the code injection tool&nbsp;<a href="https://arnica.themeix.com/ghost/settings/code-injection/">in the main admin menu</a>. This is useful for adding a Facebook Pixel, a Google Analytics tracking code, or to start tracking with any other analytics tool.
+
+<strong>To add code to a post or page</strong>, use the code injection tool within the post settings menu. This is useful if you want to add art direction, scripts or styles that are only applicable to one post or page.
+
+From here, you might be interested in managing some more specific&nbsp;<a href="https://arnica.themeix.com/admin-settings/">admin settings</a>!]]></content:encoded>
+		<excerpt:encoded><![CDATA[
+				
+				The Ghost editor has everything you need to fully optimise your content. This is where you can add tags and authors, feature a post, or turn a post into a				]]></excerpt:encoded>
+		<wp:post_id>1020</wp:post_id>
+		<wp:post_date><![CDATA[2019-03-25 09:25:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-03-25 09:25:20]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[smoking-may-make-fighting-melanoma-tougher]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -5229,6 +4710,7 @@ This e-mail was sent from a contact form on WordPress Test (https://wp-test.them
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="getting-started"><![CDATA[Getting Started]]></category>
+		<category domain="post_tag" nicename="trending"><![CDATA[Trending]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
@@ -5238,146 +4720,114 @@ This e-mail was sent from a contact form on WordPress Test (https://wp-test.them
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[featured_posts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_featured_posts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_5dae74cacbdef]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_formats_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[No Field]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_post_formats_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_5da6b91480889]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[drgfdg]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[193]]></wp:meta_value>
+		<wp:meta_value><![CDATA[161]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.7.5]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[post_bg]]></wp:meta_key>
+		<wp:meta_value><![CDATA[image]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_post_bg]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5cfa82ea7000b]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[doxy_post_title_bg]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_doxy_post_title_bg]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5cfa8c737000c]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[editot]]></wp:meta_key>
+		<wp:meta_value><![CDATA[sdfsdjfbdsj]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_editot]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5eafd578953e4]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[featured]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Yes]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_featured]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5eaa8d159dcfe]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title>Why The Hamburger Menu Should Disappear For Good</title>
-		<link>https://wp-test.themeix.com/2019/10/30/why-the-hamburger-menu-should-disappear-for-good/</link>
-		<pubDate>Wed, 30 Oct 2019 05:58:22 +0000</pubDate>
+		<title>Two calgarians among four dead</title>
+		<link>https://wp-test.themeix.com/2019/03/25/two-calgarians-among-four-dead/</link>
+		<pubDate>Mon, 25 Mar 2019 10:58:25 +0000</pubDate>
 		<dc:creator><![CDATA[siteadmin]]></dc:creator>
-		<guid isPermaLink="false">http://mingo-wp.designingmarket.com/?p=120</guid>
+		<guid isPermaLink="false">https://doxy-wp.themeix.com/?p=1032</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>MCT oil is a supplement often added to smoothies, bulletproof coffee and salad dressings.</p>
+		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true} -->
+<p class="has-drop-cap">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Platea dictumst quisque sagittis purus sit. Mattis enim ut tellus elementum. Sed faucibus turpis in eu mi bibendum. Sed felis eget velit aliquet sagittis id consectetur purus ut. Et egestas quis ipsum suspendisse ultrices gravida. Duis at consectetur lorem donec massa sapien. Commodo odio aenean sed adipiscing diam donec adipiscing tristique. Nisl condimentum id venenatis a. Adipiscing vitae proin sagittis nisl rhoncus. Fames ac turpis egestas integer eget aliquet nibh praesent tristique. Bibendum ut tristique et egestas quis ipsum suspendisse ultrices. Scelerisque viverra mauris in aliquam sem fringilla ut morbi tincidunt.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>As the name suggests, medium-chain triglyceride (MCT) oil contains medium-length chains of fats called triglycerides. Due to their shorter length, MCTs are easily digested and many health benefits are linked to the way your body processes these fats.</p>
+<p>Ut faucibus pulvinar elementum integer. Risus feugiat in ante metus dictum at tempor commodo ullamcorper. Nibh ipsum consequat nisl vel pretium. Fames ac turpis egestas integer. Nisl nunc mi ipsum faucibus vitae aliquet nec. Arcu dui vivamus arcu felis bibendum ut tristique et. Sagittis purus sit amet volutpat consequat mauris nunc congue. Imperdiet dui accumsan sit amet nulla facilisi morbi tempus iaculis. Arcu cursus euismod quis viverra nibh. Amet mattis vulputate enim nulla aliquet. Vulputate odio ut enim blandit volutpat. Vestibulum mattis ullamcorper velit sed. Tortor vitae purus faucibus ornare.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>MCT oil is most commonly extracted from coconut oil, as more than 50% of the fat in coconut oil comes from MCTs. These fats are also found in many other foods, such as palm oil and dairy products (<a href="/" target="_blank" rel="noreferrer noopener">1Trusted Source</a>).</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Four different types of MCTs exist, of which caprylic and capric acid are most commonly used for MCT oil. In some cases, these specific types have unique benefits.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Here are 7 science-backed benefits you can get from adding MCT oil to your diet.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":3} -->
-<h3>Promotes Weight Loss in Several Important Ways </h3>
+<!-- wp:heading {"level":4} -->
+<h4 id="pellentesquenecnamaliquamsem">Pellentesque nec nam aliquam sem</h4>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>There are several reasons why MCT oil may be beneficial when you’re trying to lose weight.</p>
+<p>Cursus euismod quis viverra nibh cras. Potenti nullam ac tortor vitae. Pellentesque nec nam aliquam sem et tortor consequat id. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Pellentesque pulvinar pellentesque habitant morbi tristique senectus et netus et. Egestas dui id ornare arcu odio ut. Quam nulla porttitor massa id neque aliquam vestibulum morbi. Faucibus nisl tincidunt eget nullam. Viverra nibh cras pulvinar mattis nunc sed. Quis auctor elit sed vulputate. In nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Maecenas volutpat blandit aliquam etiam erat. Et netus et malesuada fames ac turpis egestas sed tempus. Lacus viverra vitae congue eu consequat. Eget arcu dictum varius duis at consectetur lorem donec massa. Consequat nisl vel pretium lectus quam id leo.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>MCT oil has been shown to increase the release of two hormones that promote the feeling of fullness in the body: peptide YY and leptin (<a href="/" target="_blank" rel="noreferrer noopener">2Trusted Source</a>).</p>
+<p>Amet venenatis urna cursus eget nunc scelerisque viverra mauris in. Varius morbi enim nunc faucibus a pellentesque sit amet. Cras tincidunt lobortis feugiat vivamus. Auctor eu augue ut lectus arcu bibendum at. Nulla porttitor massa id neque aliquam vestibulum morbi. Tincidunt nunc pulvinar sapien et. Ipsum suspendisse ultrices gravida dictum fusce. Non consectetur a erat nam at lectus urna. Arcu felis bibendum ut tristique et egestas quis ipsum. Id ornare arcu odio ut sem. Elit eget gravida cum sociis natoque.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>It may even be better than coconut oil in keeping you full. One study found that people taking two tablespoons of MCT oil as part of their breakfast ended up eating less food for lunch compared to those taking coconut oil (<a href="/" target="_blank" rel="noreferrer noopener">3</a>).</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>The same study also discovered a lower rise in triglycerides and glucose with MCT oil, which may also influence the feeling of fullness.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Additionally, taking&nbsp;<a href="https://www.healthline.com/nutrition/mct-oil-101">MCT oil</a>&nbsp;has been shown to significantly reduce body weight and waist circumference. Researchers even report that it could help prevent obesity (<a href="/" target="_blank" rel="noreferrer noopener">4Trusted Source</a>,&nbsp;<a href="/" target="_blank" rel="noreferrer noopener">5Trusted Source</a>,&nbsp;<a href="/" target="_blank" rel="noreferrer noopener">6Trusted Source</a>).</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>MCT oil has about 10% fewer calories than long-chain triglycerides (LCTs), which are found in foods such as olive oil, nuts and avocados (<a href="/" target="_blank" rel="noreferrer noopener">7Trusted Source</a>,&nbsp;<a href="/" target="_blank" rel="noreferrer noopener">8</a>).</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Your body also processes MCTs differently, which may help you burn calories (<a href="/" target="_blank" rel="noreferrer noopener">4Trusted Source</a>,&nbsp;<a href="/" target="_blank" rel="noreferrer noopener">9Trusted Source</a>,&nbsp;<a href="/" target="_blank" rel="noreferrer noopener">10Trusted Source</a>).</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Your body can use MCT oil as an instant source of energy, making it unnecessary to store fat for this purpose. Nevertheless, it’s important to note that your body may adapt to this dietary change, leading to only temporary results (<a href="/" target="_blank" rel="noreferrer noopener">6Trusted Source</a>,&nbsp;<a href="/" target="_blank" rel="noreferrer noopener">10Trusted Source</a>).</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>MCTs can be converted into ketones, which are produced from the breakdown of fat when carb intake is low. If you’re following a ketogenic diet, which is very low in carbs yet high in fat, then taking MCT oil can help you stay in the fat-burning state known as&nbsp;<a href="/">ketosis</a>.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Lastly, your gut environment is very important when it comes to your weight. MCT oil can help optimize the growth of good bacteria and support the gut lining, which could also help you lose weight (<a href="/" target="_blank" rel="noreferrer noopener">11Trusted Source</a>).</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
+<p>Amet purus gravida quis blandit turpis cursus in hac habitasse. A diam maecenas sed enim. Duis at tellus at urna condimentum mattis pellentesque id nibh. Sagittis aliquam malesuada bibendum arcu vitae. Sit amet luctus venenatis lectus magna fringilla. Amet volutpat consequat mauris nunc congue nisi vitae. Ut aliquam purus sit amet luctus venenatis lectus magna fringilla. Neque sodales ut etiam sit amet. At consectetur lorem donec massa sapien faucibus et. Ut ornare lectus sit amet est placerat in egestas.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
-<blockquote class="wp-block-quote"><p> <strong>SUMMARY</strong>MCT oil may support weight loss by increasing fullness, fat loss, energy burning, ketone production and by improving your gut environment. </p></blockquote>
+<blockquote class="wp-block-quote"><p>Nunc mi ipsum faucibus vitae aliquet nec ullamcorper sit amet. Ante in nibh mauris cursus mattis molestie a iaculis. Est ultricies integer quis auctor elit sed vulputate mi sit. Maecenas pharetra convallis posuere morbi leo urna.</p></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
-<p>And there you have it! A Spooky Spider Crackle Cake.</p>
+<p>Est lorem ipsum dolor sit. Nunc pulvinar sapien et ligula ullamcorper malesuada proin. Eu augue ut lectus arcu bibendum. Nulla facilisi etiam dignissim diam quis enim lobortis scelerisque fermentum. At quis risus sed vulputate odio ut enim blandit volutpat. Non diam phasellus vestibulum lorem sed risus ultricies tristique nulla. Odio euismod lacinia at quis risus sed vulputate odio ut. Adipiscing elit ut aliquam purus sit. Tristique senectus et netus et malesuada fames ac turpis. Ornare lectus sit amet est. Mauris augue neque gravida in fermentum et sollicitudin ac. Aliquam sem et tortor consequat id porta. Fusce ut placerat orci nulla pellentesque. At imperdiet dui accumsan sit amet. Luctus accumsan tortor posuere ac ut. Justo donec enim diam vulputate ut pharetra sit amet aliquam. Sed egestas egestas fringilla phasellus faucibus scelerisque. Cras pulvinar mattis nunc sed. Euismod elementum nisi quis eleifend quam adipiscing vitae.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>To serve, use a sharp knife cut down the centre, and the cake should crack into pieces. This cake will keep in the fridge for up to two weeks, making it an ideal recipe to prepare in advance.</p>
+<p>Eu lobortis elementum nibh tellus molestie nunc non blandit. Vitae congue mauris rhoncus aenean. Etiam tempor orci eu lobortis elementum nibh. Convallis posuere morbi leo urna molestie at elementum eu facilisis. Ut lectus arcu bibendum at varius vel. At ultrices mi tempus imperdiet nulla malesuada. Amet est placerat in egestas erat imperdiet sed. A diam sollicitudin tempor id eu. Curabitur vitae nunc sed velit dignissim sodales ut eu. Dolor purus non enim praesent elementum facilisis leo vel. Vel turpis nunc eget lorem dolor sed viverra. Risus nullam eget felis eget nunc lobortis mattis aliquam. A erat nam at lectus. Sit amet consectetur adipiscing elit ut aliquam purus sit amet. Facilisi etiam dignissim diam quis enim. Rutrum tellus pellentesque eu tincidunt tortor. Lorem ipsum dolor sit amet consectetur. Nulla aliquet enim tortor at. Suspendisse in est ante in nibh mauris. Id porta nibh venenatis cras sed felis.</p>
 <!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>120</wp:post_id>
-		<wp:post_date><![CDATA[2019-10-30 05:58:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-10-30 05:58:22]]></wp:post_date_gmt>
+		<excerpt:encoded><![CDATA[
+				
+				Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Platea dictumst quisque sagittis purus sit. Mattis enim ut tellus elementum.				]]></excerpt:encoded>
+		<wp:post_id>1032</wp:post_id>
+		<wp:post_date><![CDATA[2019-03-25 10:58:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-03-25 10:58:25]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[why-the-hamburger-menu-should-disappear-for-good]]></wp:post_name>
+		<wp:post_name><![CDATA[two-calgarians-among-four-dead]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="food"><![CDATA[Food]]></category>
-		<category domain="category" nicename="general"><![CDATA[General]]></category>
-		<category domain="post_format" nicename="post-format-image"><![CDATA[Image]]></category>
-		<category domain="post_tag" nicename="market"><![CDATA[Market]]></category>
-		<category domain="category" nicename="products"><![CDATA[Products]]></category>
+										<category domain="category" nicename="computer"><![CDATA[Computer]]></category>
+		<category domain="post_tag" nicename="documentation"><![CDATA[documentation]]></category>
+		<category domain="post_tag" nicename="trending"><![CDATA[Trending]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
@@ -5387,52 +4837,180 @@ This e-mail was sent from a contact form on WordPress Test (https://wp-test.them
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[featured_posts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_featured_posts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_5dae74cacbdef]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_formats_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[No Field]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_post_formats_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_5da6b91480889]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[fjfgjfj]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[192]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_e1c1ba0e019a0997d8ac58027c92a5df]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<iframe title="Talking Tech &amp; Saving the World with Bill Gates!" width="900" height="506" src="https://www.youtube.com/embed/4mxXdCUXSSs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_time_e1c1ba0e019a0997d8ac58027c92a5df]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1572415572]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[little-changes-thatll-make-a-big-difference]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[video]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_video]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_5da6b9c78cc8c]]></wp:meta_value>
+		<wp:meta_value><![CDATA[162]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[featured]]></wp:meta_key>
+		<wp:meta_value><![CDATA[No]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_featured]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5eaa8d159dcfe]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Endangered leatherback sea turtle spotted off B.C. coast</title>
+		<link>https://wp-test.themeix.com/2019/03/25/endangered-leatherback-sea-turtle-spotted-off-b-c-coast/</link>
+		<pubDate>Mon, 25 Mar 2019 11:00:10 +0000</pubDate>
+		<dc:creator><![CDATA[siteadmin]]></dc:creator>
+		<guid isPermaLink="false">https://doxy-wp.themeix.com/?p=1038</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true} -->
+<p class="has-drop-cap">When you go to edit a post and see special characters and colours intertwined between the words, those are Markdown shortcuts which tell Ghost what to do with the words in your document. The biggest benefit of Markdown is that you can quickly apply formatting as you type, without needing to pause.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>At the bottom of the editor, you’ll find a toolbar with basic formatting options to help you get started as easily as possible. You’ll also notice that there’s a&nbsp;<strong>?</strong>&nbsp;icon, which contains more advanced shortcuts.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For now, though, let’s run you through some of the basics. You’ll want to make sure you’re editing this post in order to see all the Markdown we’ve used.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 id="formattingtext">Formatting text</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The most common shortcuts are of course,&nbsp;<strong>bold</strong>&nbsp;text,&nbsp;<em>italic</em>&nbsp;text, and&nbsp;<a href="https://example.com/">hyperlinks</a>. These generally make up the bulk of any document. You can type the characters out, but you can also use keyboard shortcuts.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li><code>CMD/Ctrl + B</code>&nbsp;for Bold</li><li><code>CMD/Ctrl + I</code>&nbsp;for Italic</li><li><code>CMD/Ctrl + K</code>&nbsp;for a Link</li><li><code>CMD/Ctrl + H</code>&nbsp;for a Heading (Press multiple times for h2/h3/h4/etc)</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>With just a couple of extra characters here and there, you’re well on your way to creating a beautifully formatted story.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 id="insertingimages">Inserting images</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Images in Markdown look just the same as links, except they’re prefixed with an exclamation mark, like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><code>![Image description](/path/to/image.jpg)</code></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://casper.ghost.org/v1.0.0/images/computer.jpg" alt="Computer"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Most Markdown editors don’t make you type this out, though. In Ghost you can click on the image icon in the toolbar at the bottom of the editor, or you can just click and drag an image from your desktop directly into the editor. Both will upload the image for you and generate the appropriate Markdown.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em><strong>Important Note:</strong>&nbsp;Ghost does not currently have automatic image resizing, so it’s always a good idea to make sure your images aren’t gigantic files&nbsp;<strong>before</strong>&nbsp;uploading them to Ghost.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 id="makinglists">Making lists</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Lists in HTML are a formatting nightmare, but in Markdown they become an absolute breeze with just a couple of characters and a bit of smart automation. For numbered lists, just write out the numbers. For bullet lists, just use&nbsp;<code>*</code>&nbsp;or&nbsp;<code>-</code>&nbsp;or&nbsp;<code>+</code>. Like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Crack the eggs over a bowl</li><li>Whisk them together</li><li>Make an omelette</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>or</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Remember to buy milk</li><li>Feed the cat</li><li>Come up with idea for next story</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 id="addingquotes">Adding quotes</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>When you want to pull out a particularly good excerpt in the middle of a piece, you can use&nbsp;<code>&gt;</code>&nbsp;at the beginning of a paragraph to turn it into a Blockquote. You might’ve seen this formatting before in email clients.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>A well placed quote guides a reader through a story, helping them to understand the most important points being made</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>All themes handles blockquotes slightly differently. Sometimes they’ll look better kept shorter, while other times you can quote fairly hefty amounts of text and get away with it. Generally, the safest option is to use blockquotes sparingly.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 id="dividingthingsup">Dividing things up</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you’re writing a piece in parts and you just feel like you need to divide a couple of sections distinctly from each other, a horizontal rule might be just what you need. Dropping&nbsp;<code>---</code>&nbsp;on a new line will create a sleek divider, anywhere you want it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p>This should get you going with the vast majority of what you need to do in the editor, but if you’re still curious about more advanced tips then check out the&nbsp;<a href="https://peony.themeix.com/advanced-markdown/">Advanced Markdown Guide</a>&nbsp;– or if you’d rather learn about how Ghost taxononomies work, we’ve got a overview of&nbsp;<a href="https://peony.themeix.com/using-tags/">how to use Ghost tags</a>.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[
+				
+				When you go to edit a post and see special characters and colours intertwined between the words, those are Markdown shortcuts which tell Ghost what to do with the words				]]></excerpt:encoded>
+		<wp:post_id>1038</wp:post_id>
+		<wp:post_date><![CDATA[2019-03-25 11:00:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-03-25 11:00:10]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[endangered-leatherback-sea-turtle-spotted-off-b-c-coast]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_tag" nicename="documentation"><![CDATA[documentation]]></category>
+		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1044]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[featured]]></wp:meta_key>
+		<wp:meta_value><![CDATA[No]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_featured]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5eaa8d159dcfe]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5610,156 +5188,6 @@ This e-mail was sent from a contact form on WordPress Test (https://wp-test.them
 			<wp:comment_date><![CDATA[2020-01-20 03:34:07]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2020-01-20 03:34:07]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[This is test comment]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
-					<item>
-		<title>How to start a cosmetic business at home</title>
-		<link>https://wp-test.themeix.com/2019/10/31/how-to-start-a-cosmetic-business-at-home/</link>
-		<pubDate>Thu, 31 Oct 2019 06:33:58 +0000</pubDate>
-		<dc:creator><![CDATA[siteadmin]]></dc:creator>
-		<guid isPermaLink="false">http://wp-mingo.themeix.com/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>MCT oil is a supplement often added to smoothies, bulletproof coffee and salad dressings.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>As the name suggests, medium-chain triglyceride (MCT) oil contains medium-length chains of fats called triglycerides. Due to their shorter length, MCTs are easily digested and many health benefits are linked to the way your body processes these fats.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>MCT oil is most commonly extracted from coconut oil, as more than 50% of the fat in coconut oil comes from MCTs. These fats are also found in many other foods, such as palm oil and dairy products (<a href="/" target="_blank" rel="noreferrer noopener">1Trusted Source</a>).</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Four different types of MCTs exist, of which caprylic and capric acid are most commonly used for MCT oil. In some cases, these specific types have unique benefits.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Here are 7 science-backed benefits you can get from adding MCT oil to your diet.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":3} -->
-<h3>Promotes Weight Loss in Several Important Ways </h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>There are several reasons why MCT oil may be beneficial when you’re trying to lose weight.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>MCT oil has been shown to increase the release of two hormones that promote the feeling of fullness in the body: peptide YY and leptin (<a href="/" target="_blank" rel="noreferrer noopener">2Trusted Source</a>).</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>It may even be better than coconut oil in keeping you full. One study found that people taking two tablespoons of MCT oil as part of their breakfast ended up eating less food for lunch compared to those taking coconut oil (<a href="/" target="_blank" rel="noreferrer noopener">3</a>).</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>The same study also discovered a lower rise in triglycerides and glucose with MCT oil, which may also influence the feeling of fullness.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Additionally, taking&nbsp;<a href="https://www.healthline.com/nutrition/mct-oil-101">MCT oil</a>&nbsp;has been shown to significantly reduce body weight and waist circumference. Researchers even report that it could help prevent obesity (<a href="/" target="_blank" rel="noreferrer noopener">4Trusted Source</a>,&nbsp;<a href="/" target="_blank" rel="noreferrer noopener">5Trusted Source</a>,&nbsp;<a href="/" target="_blank" rel="noreferrer noopener">6Trusted Source</a>).</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>MCT oil has about 10% fewer calories than long-chain triglycerides (LCTs), which are found in foods such as olive oil, nuts and avocados (<a href="/" target="_blank" rel="noreferrer noopener">7Trusted Source</a>,&nbsp;<a href="/" target="_blank" rel="noreferrer noopener">8</a>).</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Your body also processes MCTs differently, which may help you burn calories (<a href="/" target="_blank" rel="noreferrer noopener">4Trusted Source</a>,&nbsp;<a href="/" target="_blank" rel="noreferrer noopener">9Trusted Source</a>,&nbsp;<a href="/" target="_blank" rel="noreferrer noopener">10Trusted Source</a>).</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Your body can use MCT oil as an instant source of energy, making it unnecessary to store fat for this purpose. Nevertheless, it’s important to note that your body may adapt to this dietary change, leading to only temporary results (<a href="/" target="_blank" rel="noreferrer noopener">6Trusted Source</a>,&nbsp;<a href="/" target="_blank" rel="noreferrer noopener">10Trusted Source</a>).</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>MCTs can be converted into ketones, which are produced from the breakdown of fat when carb intake is low. If you’re following a ketogenic diet, which is very low in carbs yet high in fat, then taking MCT oil can help you stay in the fat-burning state known as&nbsp;<a href="/">ketosis</a>.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Lastly, your gut environment is very important when it comes to your weight. MCT oil can help optimize the growth of good bacteria and support the gut lining, which could also help you lose weight (<a href="/" target="_blank" rel="noreferrer noopener">11Trusted Source</a>).</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p> <strong>SUMMARY</strong>MCT oil may support weight loss by increasing fullness, fat loss, energy burning, ketone production and by improving your gut environment. </p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>And there you have it! A Spooky Spider Crackle Cake.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>To serve, use a sharp knife cut down the centre, and the cake should crack into pieces. This cake will keep in the fridge for up to two weeks, making it an ideal recipe to prepare in advance.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1054</wp:post_id>
-		<wp:post_date><![CDATA[2019-10-31 06:33:58]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-10-31 06:33:58]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[how-to-start-a-cosmetic-business-at-home]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="general"><![CDATA[General]]></category>
-		<category domain="post_tag" nicename="post"><![CDATA[post]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[180]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[featured_posts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_featured_posts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_5dae74cacbdef]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_formats_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[No Field]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_post_formats_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_5da6b91480889]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>6</wp:comment_id>
-			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
-			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2019-10-31 06:33:58]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2019-10-31 06:33:58]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href="https://gravatar.com" rel="nofollow ugc">Gravatar</a>.]]></wp:comment_content>
 			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
 			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
@@ -6472,6 +5900,837 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow ugc">Gr
 		<wp:meta_value><![CDATA[1047]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+					<item>
+		<title>Contact form 1</title>
+		<link>https://wp-test.themeix.com/?post_type=wpcf7_contact_form&#038;p=6</link>
+		<pubDate>Sat, 03 Oct 2020 15:39:20 +0000</pubDate>
+		<dc:creator><![CDATA[siteadmin]]></dc:creator>
+		<guid isPermaLink="false">https://wp-test.themeix.com/?post_type=wpcf7_contact_form&#038;p=6</guid>
+		<description></description>
+		<content:encoded><![CDATA[<label> Your Name (required)
+    [text* your-name] </label>
+
+<label> Your Email (required)
+    [email* your-email] </label>
+
+<label> Subject
+    [text your-subject] </label>
+
+<label> Your Message
+    [textarea your-message] </label>
+
+[submit "Send"]
+WordPress Test "[your-subject]"
+WordPress Test <wordpress@wp-test.themeix.com>
+From: [your-name] <[your-email]>
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on WordPress Test (https://wp-test.themeix.com)
+seakashdiu@gmail.com
+Reply-To: [your-email]
+
+0
+0
+
+WordPress Test "[your-subject]"
+WordPress Test <wordpress@wp-test.themeix.com>
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on WordPress Test (https://wp-test.themeix.com)
+[your-email]
+Reply-To: seakashdiu@gmail.com
+
+0
+0
+Thank you for your message. It has been sent.
+There was an error trying to send your message. Please try again later.
+One or more fields have an error. Please check and try again.
+There was an error trying to send your message. Please try again later.
+You must accept the terms and conditions before sending your message.
+The field is required.
+The field is too long.
+The field is too short.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>6</wp:post_id>
+		<wp:post_date><![CDATA[2020-10-03 15:39:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-10-03 15:39:20]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_form]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<label> Your Name (required)
+    [text* your-name] </label>
+
+<label> Your Email (required)
+    [email* your-email] </label>
+
+<label> Subject
+    [text your-subject] </label>
+
+<label> Your Message
+    [textarea your-message] </label>
+
+[submit "Send"]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:31:"WordPress Test "[your-subject]"";s:6:"sender";s:46:"WordPress Test <wordpress@wp-test.themeix.com>";s:4:"body";s:180:"From: [your-name] <[your-email]>
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on WordPress Test (https://wp-test.themeix.com)";s:9:"recipient";s:20:"seakashdiu@gmail.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:31:"WordPress Test "[your-subject]"";s:6:"sender";s:46:"WordPress Test <wordpress@wp-test.themeix.com>";s:4:"body";s:122:"Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on WordPress Test (https://wp-test.themeix.com)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:30:"Reply-To: seakashdiu@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:8:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
+		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Contact Form</title>
+		<link>https://wp-test.themeix.com/?post_type=wpcf7_contact_form&#038;p=9</link>
+		<pubDate>Sat, 03 Oct 2020 15:48:04 +0000</pubDate>
+		<dc:creator><![CDATA[siteadmin]]></dc:creator>
+		<guid isPermaLink="false">https://wp-test.themeix.com/?post_type=wpcf7_contact_form&#038;p=9</guid>
+		<description></description>
+		<content:encoded><![CDATA[<div class="form-row">
+    <div class="form-group col-md-6">
+        [text* your-name class:form-control placeholder "Your Name"]
+    </div>
+    <div class="form-group col-md-6">
+        [email* your-email class:form-control placeholder "Your Email"]
+    </div>
+ </div>
+ <div class="form-row">
+    <div class="form-group col-md-12 text-center">
+        [textarea* your-message class:form-control placeholder "Message"]
+    </div>
+ </div>
+ <button type="submit" class="btn btn-primary">Submit</button>
+1
+WordPress Test "[your-subject]"
+WordPress Test <wordpress@wp-test.themeix.com>
+seakashdiu@gmail.com
+From: [your-name] <[your-email]>
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on WordPress Test (https://wp-test.themeix.com)
+Reply-To: [your-email]
+
+
+
+
+WordPress Test "[your-subject]"
+WordPress Test <wordpress@wp-test.themeix.com>
+[your-email]
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on WordPress Test (https://wp-test.themeix.com)
+Reply-To: seakashdiu@gmail.com
+
+
+
+Thank you for your message. It has been sent.
+There was an error trying to send your message. Please try again later.
+One or more fields have an error. Please check and try again.
+There was an error trying to send your message. Please try again later.
+You must accept the terms and conditions before sending your message.
+The field is required.
+The field is too long.
+The field is too short.
+The date format is incorrect.
+The date is before the earliest one allowed.
+The date is after the latest one allowed.
+There was an unknown error uploading the file.
+You are not allowed to upload files of this type.
+The file is too big.
+There was an error uploading the file.
+The number format is invalid.
+The number is smaller than the minimum allowed.
+The number is larger than the maximum allowed.
+The answer to the quiz is incorrect.
+The e-mail address entered is invalid.
+The URL is invalid.
+The telephone number is invalid.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>9</wp:post_id>
+		<wp:post_date><![CDATA[2020-10-03 15:48:04]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-10-03 15:48:04]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact-form]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_form]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<div class="form-row">
+    <div class="form-group col-md-6">
+        [text* your-name class:form-control placeholder "Your Name"]
+    </div>
+    <div class="form-group col-md-6">
+        [email* your-email class:form-control placeholder "Your Email"]
+    </div>
+ </div>
+ <div class="form-row">
+    <div class="form-group col-md-12 text-center">
+        [textarea* your-message class:form-control placeholder "Message"]
+    </div>
+ </div>
+ <button type="submit" class="btn btn-primary">Submit</button>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:31:"WordPress Test "[your-subject]"";s:6:"sender";s:46:"WordPress Test <wordpress@wp-test.themeix.com>";s:9:"recipient";s:20:"seakashdiu@gmail.com";s:4:"body";s:180:"From: [your-name] <[your-email]>
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on WordPress Test (https://wp-test.themeix.com)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:31:"WordPress Test "[your-subject]"";s:6:"sender";s:46:"WordPress Test <wordpress@wp-test.themeix.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:122:"Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on WordPress Test (https://wp-test.themeix.com)";s:18:"additional_headers";s:30:"Reply-To: seakashdiu@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:22:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";s:12:"invalid_date";s:29:"The date format is incorrect.";s:14:"date_too_early";s:44:"The date is before the earliest one allowed.";s:13:"date_too_late";s:41:"The date is after the latest one allowed.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:20:"The file is too big.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:14:"invalid_number";s:29:"The number format is invalid.";s:16:"number_too_small";s:47:"The number is smaller than the minimum allowed.";s:16:"number_too_large";s:46:"The number is larger than the maximum allowed.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:13:"invalid_email";s:38:"The e-mail address entered is invalid.";s:11:"invalid_url";s:19:"The URL is invalid.";s:11:"invalid_tel";s:32:"The telephone number is invalid.";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
+		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Newsletter</title>
+		<link>https://wp-test.themeix.com/?post_type=wpcf7_contact_form&#038;p=19</link>
+		<pubDate>Sat, 03 Oct 2020 16:33:39 +0000</pubDate>
+		<dc:creator><![CDATA[siteadmin]]></dc:creator>
+		<guid isPermaLink="false">https://wp-test.themeix.com/?post_type=wpcf7_contact_form&#038;p=19</guid>
+		<description></description>
+		<content:encoded><![CDATA[<div class="form-group"> [email* your-email class:subscribe-email placeholder "Your Name"]<button class="button primary" type="submit">Subscribe</button> </div>
+1
+WordPress Test "[your-subject]"
+WordPress Test <wordpress@wp-test.themeix.com>
+seakashdiu@gmail.com
+From: [your-name] <[your-email]>
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on WordPress Test (https://wp-test.themeix.com)
+Reply-To: [your-email]
+
+
+
+
+WordPress Test "[your-subject]"
+WordPress Test <wordpress@wp-test.themeix.com>
+[your-email]
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on WordPress Test (https://wp-test.themeix.com)
+Reply-To: seakashdiu@gmail.com
+
+
+
+Thank you for your subscribe
+There was an error. Please try again later.
+One or more fields have an error. Please check and try again.
+There was an error trying to send your message. Please try again later.
+You must accept the terms and conditions before sending your message.
+The field is required.
+The field is too long.
+The field is too short.
+The date format is incorrect.
+The date is before the earliest one allowed.
+The date is after the latest one allowed.
+There was an unknown error uploading the file.
+You are not allowed to upload files of this type.
+The file is too big.
+There was an error uploading the file.
+The number format is invalid.
+The number is smaller than the minimum allowed.
+The number is larger than the maximum allowed.
+The answer to the quiz is incorrect.
+The e-mail address entered is invalid.
+The URL is invalid.
+The telephone number is invalid.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>19</wp:post_id>
+		<wp:post_date><![CDATA[2020-10-03 16:33:39]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-10-03 16:33:39]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[newsletter]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_form]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<div class="form-group"> [email* your-email class:subscribe-email placeholder "Your Name"]<button class="button primary" type="submit">Subscribe</button> </div>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:31:"WordPress Test "[your-subject]"";s:6:"sender";s:46:"WordPress Test <wordpress@wp-test.themeix.com>";s:9:"recipient";s:20:"seakashdiu@gmail.com";s:4:"body";s:180:"From: [your-name] <[your-email]>
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on WordPress Test (https://wp-test.themeix.com)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:31:"WordPress Test "[your-subject]"";s:6:"sender";s:46:"WordPress Test <wordpress@wp-test.themeix.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:122:"Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on WordPress Test (https://wp-test.themeix.com)";s:18:"additional_headers";s:30:"Reply-To: seakashdiu@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:22:{s:12:"mail_sent_ok";s:28:"Thank you for your subscribe";s:12:"mail_sent_ng";s:43:"There was an error. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";s:12:"invalid_date";s:29:"The date format is incorrect.";s:14:"date_too_early";s:44:"The date is before the earliest one allowed.";s:13:"date_too_late";s:41:"The date is after the latest one allowed.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:20:"The file is too big.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:14:"invalid_number";s:29:"The number format is invalid.";s:16:"number_too_small";s:47:"The number is smaller than the minimum allowed.";s:16:"number_too_large";s:46:"The number is larger than the maximum allowed.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:13:"invalid_email";s:38:"The e-mail address entered is invalid.";s:11:"invalid_url";s:19:"The URL is invalid.";s:11:"invalid_tel";s:32:"The telephone number is invalid.";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
+		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>7 UX Principles for Creating a Great Website</title>
+		<link>https://wp-test.themeix.com/2019/10/30/7-ux-principles-for-creating-a-great-website/</link>
+		<pubDate>Wed, 30 Oct 2019 05:56:29 +0000</pubDate>
+		<dc:creator><![CDATA[siteadmin]]></dc:creator>
+		<guid isPermaLink="false">http://mingo-wp.designingmarket.com/?p=113</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>MCT oil is a supplement often added to smoothies, bulletproof coffee and salad dressings.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>As the name suggests, medium-chain triglyceride (MCT) oil contains medium-length chains of fats called triglycerides. Due to their shorter length, MCTs are easily digested and many health benefits are linked to the way your body processes these fats.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>MCT oil is most commonly extracted from coconut oil, as more than 50% of the fat in coconut oil comes from MCTs. These fats are also found in many other foods, such as palm oil and dairy products (<a href="/" target="_blank" rel="noreferrer noopener">1Trusted Source</a>).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Four different types of MCTs exist, of which caprylic and capric acid are most commonly used for MCT oil. In some cases, these specific types have unique benefits.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Here are 7 science-backed benefits you can get from adding MCT oil to your diet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Promotes Weight </h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>There are several reasons why MCT oil may be beneficial when you’re trying to lose weight.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>MCT oil has been shown to increase the release of two hormones that promote the feeling of fullness in the body: peptide YY and leptin (<a href="/" target="_blank" rel="noreferrer noopener">2Trusted Source</a>).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It may even be better than coconut oil in keeping you full. One study found that people taking two tablespoons of MCT oil as part of their breakfast ended up eating less food for lunch compared to those taking coconut oil (<a href="/" target="_blank" rel="noreferrer noopener">3</a>).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The same study also discovered a lower rise in triglycerides and glucose with MCT oil, which may also influence the feeling of fullness.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Additionally, taking&nbsp;<a href="https://www.healthline.com/nutrition/mct-oil-101">MCT oil</a>&nbsp;has been shown to significantly reduce body weight and waist circumference. Researchers even report that it could help prevent obesity (<a href="/" target="_blank" rel="noreferrer noopener">4Trusted Source</a>,&nbsp;<a href="/" target="_blank" rel="noreferrer noopener">5Trusted Source</a>,&nbsp;<a href="/" target="_blank" rel="noreferrer noopener">6Trusted Source</a>).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>MCT oil has about 10% fewer calories than long-chain triglycerides (LCTs), which are found in foods such as olive oil, nuts and avocados (<a href="/" target="_blank" rel="noreferrer noopener">7Trusted Source</a>,&nbsp;<a href="/" target="_blank" rel="noreferrer noopener">8</a>).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Your body also processes MCTs differently, which may help you burn calories (<a href="/" target="_blank" rel="noreferrer noopener">4Trusted Source</a>,&nbsp;<a href="/" target="_blank" rel="noreferrer noopener">9Trusted Source</a>,&nbsp;<a href="/" target="_blank" rel="noreferrer noopener">10Trusted Source</a>).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Your body can use MCT oil as an instant source of energy, making it unnecessary to store fat for this purpose. Nevertheless, it’s important to note that your body may adapt to this dietary change, leading to only temporary results (<a href="/" target="_blank" rel="noreferrer noopener">6Trusted Source</a>,&nbsp;<a href="/" target="_blank" rel="noreferrer noopener">10Trusted Source</a>).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>MCTs can be converted into ketones, which are produced from the breakdown of fat when carb intake is low. If you’re following a ketogenic diet, which is very low in carbs yet high in fat, then taking MCT oil can help you stay in the fat-burning state known as&nbsp;<a href="/">ketosis</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Lastly, your gut environment is very important when it comes to your weight. MCT oil can help optimize the growth of good bacteria and support the gut lining, which could also help you lose weight (<a href="/" target="_blank" rel="noreferrer noopener">11Trusted Source</a>).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p> <strong>SUMMARY</strong>MCT oil may support weight loss by increasing fullness, fat loss, energy burning, ketone production and by improving your gut environment. </p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>And there you have it! A Spooky Spider Crackle Cake.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>To serve, use a sharp knife cut down the centre, and the cake should crack into pieces. This cake will keep in the fridge for up to two weeks, making it an ideal recipe to prepare in advance.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>113</wp:post_id>
+		<wp:post_date><![CDATA[2019-10-30 05:56:29]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-10-30 05:56:29]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[7-ux-principles-for-creating-a-great-website]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="getting-started"><![CDATA[Getting Started]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[featured_posts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_featured_posts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dae74cacbdef]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[post_formats_fields]]></wp:meta_key>
+		<wp:meta_value><![CDATA[No Field]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_post_formats_fields]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5da6b91480889]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[drgfdg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[193]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2.7.5]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Why The Hamburger Menu Should Disappear For Good</title>
+		<link>https://wp-test.themeix.com/2019/10/30/why-the-hamburger-menu-should-disappear-for-good/</link>
+		<pubDate>Wed, 30 Oct 2019 05:58:22 +0000</pubDate>
+		<dc:creator><![CDATA[siteadmin]]></dc:creator>
+		<guid isPermaLink="false">http://mingo-wp.designingmarket.com/?p=120</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>MCT oil is a supplement often added to smoothies, bulletproof coffee and salad dressings.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>As the name suggests, medium-chain triglyceride (MCT) oil contains medium-length chains of fats called triglycerides. Due to their shorter length, MCTs are easily digested and many health benefits are linked to the way your body processes these fats.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>MCT oil is most commonly extracted from coconut oil, as more than 50% of the fat in coconut oil comes from MCTs. These fats are also found in many other foods, such as palm oil and dairy products (<a href="/" target="_blank" rel="noreferrer noopener">1Trusted Source</a>).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Four different types of MCTs exist, of which caprylic and capric acid are most commonly used for MCT oil. In some cases, these specific types have unique benefits.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Here are 7 science-backed benefits you can get from adding MCT oil to your diet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Promotes Weight Loss in Several Important Ways </h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>There are several reasons why MCT oil may be beneficial when you’re trying to lose weight.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>MCT oil has been shown to increase the release of two hormones that promote the feeling of fullness in the body: peptide YY and leptin (<a href="/" target="_blank" rel="noreferrer noopener">2Trusted Source</a>).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It may even be better than coconut oil in keeping you full. One study found that people taking two tablespoons of MCT oil as part of their breakfast ended up eating less food for lunch compared to those taking coconut oil (<a href="/" target="_blank" rel="noreferrer noopener">3</a>).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The same study also discovered a lower rise in triglycerides and glucose with MCT oil, which may also influence the feeling of fullness.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Additionally, taking&nbsp;<a href="https://www.healthline.com/nutrition/mct-oil-101">MCT oil</a>&nbsp;has been shown to significantly reduce body weight and waist circumference. Researchers even report that it could help prevent obesity (<a href="/" target="_blank" rel="noreferrer noopener">4Trusted Source</a>,&nbsp;<a href="/" target="_blank" rel="noreferrer noopener">5Trusted Source</a>,&nbsp;<a href="/" target="_blank" rel="noreferrer noopener">6Trusted Source</a>).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>MCT oil has about 10% fewer calories than long-chain triglycerides (LCTs), which are found in foods such as olive oil, nuts and avocados (<a href="/" target="_blank" rel="noreferrer noopener">7Trusted Source</a>,&nbsp;<a href="/" target="_blank" rel="noreferrer noopener">8</a>).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Your body also processes MCTs differently, which may help you burn calories (<a href="/" target="_blank" rel="noreferrer noopener">4Trusted Source</a>,&nbsp;<a href="/" target="_blank" rel="noreferrer noopener">9Trusted Source</a>,&nbsp;<a href="/" target="_blank" rel="noreferrer noopener">10Trusted Source</a>).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Your body can use MCT oil as an instant source of energy, making it unnecessary to store fat for this purpose. Nevertheless, it’s important to note that your body may adapt to this dietary change, leading to only temporary results (<a href="/" target="_blank" rel="noreferrer noopener">6Trusted Source</a>,&nbsp;<a href="/" target="_blank" rel="noreferrer noopener">10Trusted Source</a>).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>MCTs can be converted into ketones, which are produced from the breakdown of fat when carb intake is low. If you’re following a ketogenic diet, which is very low in carbs yet high in fat, then taking MCT oil can help you stay in the fat-burning state known as&nbsp;<a href="/">ketosis</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Lastly, your gut environment is very important when it comes to your weight. MCT oil can help optimize the growth of good bacteria and support the gut lining, which could also help you lose weight (<a href="/" target="_blank" rel="noreferrer noopener">11Trusted Source</a>).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p> <strong>SUMMARY</strong>MCT oil may support weight loss by increasing fullness, fat loss, energy burning, ketone production and by improving your gut environment. </p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>And there you have it! A Spooky Spider Crackle Cake.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>To serve, use a sharp knife cut down the centre, and the cake should crack into pieces. This cake will keep in the fridge for up to two weeks, making it an ideal recipe to prepare in advance.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>120</wp:post_id>
+		<wp:post_date><![CDATA[2019-10-30 05:58:22]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-10-30 05:58:22]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[why-the-hamburger-menu-should-disappear-for-good]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_tag" nicename="food"><![CDATA[Food]]></category>
+		<category domain="category" nicename="general"><![CDATA[General]]></category>
+		<category domain="post_format" nicename="post-format-image"><![CDATA[Image]]></category>
+		<category domain="post_tag" nicename="market"><![CDATA[Market]]></category>
+		<category domain="category" nicename="products"><![CDATA[Products]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[featured_posts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_featured_posts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dae74cacbdef]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[post_formats_fields]]></wp:meta_key>
+		<wp:meta_value><![CDATA[No Field]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_post_formats_fields]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5da6b91480889]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[fjfgjfj]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[192]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_e1c1ba0e019a0997d8ac58027c92a5df]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="Talking Tech &amp; Saving the World with Bill Gates!" width="900" height="506" src="https://www.youtube.com/embed/4mxXdCUXSSs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_e1c1ba0e019a0997d8ac58027c92a5df]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1572415572]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[little-changes-thatll-make-a-big-difference]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5da6b9c78cc8c]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[show_as_featured]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_show_as_featured]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5ff1446ea43b6]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>How to start a cosmetic business at home</title>
+		<link>https://wp-test.themeix.com/2019/10/31/how-to-start-a-cosmetic-business-at-home/</link>
+		<pubDate>Thu, 31 Oct 2019 06:33:58 +0000</pubDate>
+		<dc:creator><![CDATA[siteadmin]]></dc:creator>
+		<guid isPermaLink="false">http://wp-mingo.themeix.com/?p=1</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>MCT oil is a supplement often added to smoothies, bulletproof coffee and salad dressings.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>As the name suggests, medium-chain triglyceride (MCT) oil contains medium-length chains of fats called triglycerides. Due to their shorter length, MCTs are easily digested and many health benefits are linked to the way your body processes these fats.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>MCT oil is most commonly extracted from coconut oil, as more than 50% of the fat in coconut oil comes from MCTs. These fats are also found in many other foods, such as palm oil and dairy products (<a href="/" target="_blank" rel="noreferrer noopener">1Trusted Source</a>).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Four different types of MCTs exist, of which caprylic and capric acid are most commonly used for MCT oil. In some cases, these specific types have unique benefits.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Here are 7 science-backed benefits you can get from adding MCT oil to your diet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Promotes Weight Loss in Several Important Ways </h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>There are several reasons why MCT oil may be beneficial when you’re trying to lose weight.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>MCT oil has been shown to increase the release of two hormones that promote the feeling of fullness in the body: peptide YY and leptin (<a href="/" target="_blank" rel="noreferrer noopener">2Trusted Source</a>).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It may even be better than coconut oil in keeping you full. One study found that people taking two tablespoons of MCT oil as part of their breakfast ended up eating less food for lunch compared to those taking coconut oil (<a href="/" target="_blank" rel="noreferrer noopener">3</a>).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The same study also discovered a lower rise in triglycerides and glucose with MCT oil, which may also influence the feeling of fullness.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Additionally, taking&nbsp;<a href="https://www.healthline.com/nutrition/mct-oil-101">MCT oil</a>&nbsp;has been shown to significantly reduce body weight and waist circumference. Researchers even report that it could help prevent obesity (<a href="/" target="_blank" rel="noreferrer noopener">4Trusted Source</a>,&nbsp;<a href="/" target="_blank" rel="noreferrer noopener">5Trusted Source</a>,&nbsp;<a href="/" target="_blank" rel="noreferrer noopener">6Trusted Source</a>).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>MCT oil has about 10% fewer calories than long-chain triglycerides (LCTs), which are found in foods such as olive oil, nuts and avocados (<a href="/" target="_blank" rel="noreferrer noopener">7Trusted Source</a>,&nbsp;<a href="/" target="_blank" rel="noreferrer noopener">8</a>).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Your body also processes MCTs differently, which may help you burn calories (<a href="/" target="_blank" rel="noreferrer noopener">4Trusted Source</a>,&nbsp;<a href="/" target="_blank" rel="noreferrer noopener">9Trusted Source</a>,&nbsp;<a href="/" target="_blank" rel="noreferrer noopener">10Trusted Source</a>).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Your body can use MCT oil as an instant source of energy, making it unnecessary to store fat for this purpose. Nevertheless, it’s important to note that your body may adapt to this dietary change, leading to only temporary results (<a href="/" target="_blank" rel="noreferrer noopener">6Trusted Source</a>,&nbsp;<a href="/" target="_blank" rel="noreferrer noopener">10Trusted Source</a>).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>MCTs can be converted into ketones, which are produced from the breakdown of fat when carb intake is low. If you’re following a ketogenic diet, which is very low in carbs yet high in fat, then taking MCT oil can help you stay in the fat-burning state known as&nbsp;<a href="/">ketosis</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Lastly, your gut environment is very important when it comes to your weight. MCT oil can help optimize the growth of good bacteria and support the gut lining, which could also help you lose weight (<a href="/" target="_blank" rel="noreferrer noopener">11Trusted Source</a>).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p> <strong>SUMMARY</strong>MCT oil may support weight loss by increasing fullness, fat loss, energy burning, ketone production and by improving your gut environment. </p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>And there you have it! A Spooky Spider Crackle Cake.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>To serve, use a sharp knife cut down the centre, and the cake should crack into pieces. This cake will keep in the fridge for up to two weeks, making it an ideal recipe to prepare in advance.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1054</wp:post_id>
+		<wp:post_date><![CDATA[2019-10-31 06:33:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-10-31 06:33:58]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[how-to-start-a-cosmetic-business-at-home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="general"><![CDATA[General]]></category>
+		<category domain="post_tag" nicename="post"><![CDATA[post]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[180]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[featured_posts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_featured_posts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5dae74cacbdef]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[post_formats_fields]]></wp:meta_key>
+		<wp:meta_value><![CDATA[No Field]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_post_formats_fields]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5da6b91480889]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[show_as_featured]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_show_as_featured]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_5ff1446ea43b6]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
+			<wp:comment_id>6</wp:comment_id>
+			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
+			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2019-10-31 06:33:58]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2019-10-31 06:33:58]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hi, this is a comment.
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
+Commenter avatars come from <a href="https://gravatar.com" rel="nofollow ugc">Gravatar</a>.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
 					<item>
 		<title>Sinju Contact Form</title>
 		<link>https://wp-test.themeix.com/?post_type=wpcf7_contact_form&#038;p=1101</link>
